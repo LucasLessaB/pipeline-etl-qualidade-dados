@@ -1,0 +1,19 @@
+{
+  "antes": {
+    "linhas": 900,
+    "ids_duplicados": 669,
+    "emails_invalidos": 87,
+    "telefones_invalidos": 48,
+    "estados_invalidos": 79,
+    "valores_invalidos": 0
+  },
+  "depois": {
+    "linhas": 500,
+    "ids_duplicados": 0,
+    "emails_invalidos": 50,
+    "telefones_invalidos": 27,
+    "estados_invalidos": 53,
+    "valores_invalidos": 0
+  },
+  "linhas_removidas_por_duplicidade": 400
+}

@@ -1,0 +1,901 @@
+cliente_id,nome,email,telefone,estado,data_cadastro,valor_acumulado,atualizado_em
+CLI-0535,Diego Alves,diego.alves535@outlook.com,+55 98994642629,SP,23/07/2024,326.46,2024-11-07
+CLI-0259,Gabi Melo,gabi.melo259@outlook.com,+55 98991863276,Maranhao,2023-05-08,402.40,2023-07-31
+CLI-0553,Ana Lima,ana.lima553empresa.com.br,98954985560,rj,28/08/2025,1680.65,2025-09-01
+CLI-0444,Carla Souza,carla.souza444@empresa.com.br,(98) 96405-3723,ma,2023-01-11,2262.20,2023-03-15
+CLI-0540,  CARLA SOUZA  ,..carla.souza..540@gmail.com,+55 98925870131,sp,27/12/2025,1459.14,2026-03-26
+CLI-0327,Bruno Costa,bruno.costa327@empresa.com.br,,PA,2024-12-13,"R$ 94,09",2025-02-01
+CLI-0318,  CARLA SOUZA  ,..carla.souza..318@empresa.com.br,+55 98902773124,Maranhao,2023-10-11,"R$ 1.074,70",2023-12-14
+CLI-0155,  FABIO SANTOS  ,..fabio.santos..155gmail.com,(98) 97207-1962,Maranhao,08/10/2024,2116.55,2024-10-31
+CLI-0708,Gabi Melo,gabi.melo708@outlook.com,(98) 95418-1372,SP,24/06/2023,1432.45,2023-11-18
+CLI-0168,Gabi Melo,gabi.melo168@empresa.com.br,(98) 97870-6223,ma,31/03/2024,"R$ 1.460,43",2024-05-25
+CLI-0235,Diego Alves,diego.alves235@gmail.com,98980283747,,2025-11-29,"R$ 1.124,95",2026-04-20
+CLI-0237,Elisa Rocha,elisa.rocha237@gmail.com,(98) 92832-8401,pa,2025-07-08,1556.31,2025-08-26
+CLI-0590,Fabio Santos,fabio.santos590@gmail.com,+55 98959801749,sp,2025-08-30,"R$ 1.201,92",2025-09-01
+CLI-0479,Carla Souza,carla.souza479gmail.com,+55 98913226089,sp,2023-02-01,"R$ 115,43",2023-02-26
+CLI-0027,Diego Alves,diego.alves27@gmail.com,(98) 90401-7283,SP,26/05/2025,2487.68,2025-08-02
+CLI-0366,Carla Souza,carla.souza366@empresa.com.br,(98) 95592-1159,ma,2025-12-12,"R$ 1.961,66",2026-05-21
+CLI-0292,Carla Souza,carla.souza292@outlook.com,(98) 93264-9448,ma,25/06/2025,363.44,2025-09-12
+CLI-0702,Bruno Costa,bruno.costa702@gmail.com,98976776685,pa,2023-06-20,"R$ 1.158,71",2023-12-06
+CLI-0573,  BRUNO COSTA  ,..bruno.costa..573@empresa.com.br,(98) 96619-2889,Maranhao,2025-04-13,213.24,2025-06-12
+CLI-0438,Elisa Rocha,elisa.rocha438@outlook.com,(98) 91724-7741,RJ,2025-10-12,685.40,2026-03-23
+CLI-0126,Carla Souza,carla.souza126outlook.com,(98) 96915-4297,sp,25/05/2023,2423.35,2023-09-20
+CLI-0330,Bruno Costa,bruno.costa330@empresa.com.br,(98) 95146-1474,ma,18/11/2025,"R$ 1.660,49",2026-01-17
+CLI-0222,Bruno Costa,bruno.costa222@outlook.com,(98) 95854-1024,RJ,2023-06-11,831.20,2023-06-20
+CLI-0583,  ELISA ROCHA  ,..elisa.rocha..583@empresa.com.br,(98) 95421-3967,rj,2024-09-11,1193.04,2024-10-29
+CLI-0214,Gabi Melo,gabi.melo214@empresa.com.br,+55 98930867834,RJ,2023-05-27,1208.97,2023-10-23
+CLI-0496,Fabio Santos,fabio.santos496empresa.com.br,(98) 93163-1815,PA,11/04/2024,"R$ 1.796,07",2024-10-05
+CLI-0245,Carla Souza,carla.souza245@gmail.com,98966125992,ma,2025-04-12,"R$ 2.275,95",2025-08-17
+CLI-0032,Carla Souza,carla.souza32@gmail.com,98919683547,sp,19/08/2024,1172.03,2025-01-02
+CLI-0319,Fabio Santos,fabio.santos319@outlook.com,,MA,06/08/2024,1411.27,2024-10-20
+CLI-0631,Carla Souza,carla.souza631@gmail.com,98914438560,RJ,2025-09-07,"R$ 1.185,69",2025-09-09
+CLI-0616,Gabi Melo,gabi.melo616@outlook.com,(98) 91998-1374,ma,12/06/2023,"R$ 149,45",2023-07-18
+CLI-0665,Bruno Costa,bruno.costa665outlook.com,98935997271,PA,2023-08-06,2021.05,2023-10-24
+CLI-0660,Carla Souza,carla.souza660@outlook.com,98958713117,pa,02/08/2025,"R$ 310,33",2025-11-27
+CLI-0059,Gabi Melo,gabi.melo59@empresa.com.br,+55 98939850266,RJ,2023-11-12,1991.94,2023-12-21
+CLI-0586,Fabio Santos,fabio.santos586@outlook.com,98911452838,pa,19/02/2025,"R$ 2.090,90",2025-06-04
+CLI-0692,Carla Souza,carla.souza692@empresa.com.br,+55 98954330169,RJ,30/03/2024,2257.76,2024-06-18
+CLI-0217,  ELISA ROCHA  ,..elisa.rocha..217@gmail.com,98962793056,SP,2025-01-18,2121.05,2025-03-22
+CLI-0006,  CARLA SOUZA  ,..carla.souza..6@outlook.com,(98) 94855-1862,MA,04/04/2023,1410.08,2023-09-30
+CLI-0607,Carla Souza,carla.souza607@empresa.com.br,+55 98948100022,,11/10/2024,"R$ 1.575,22",2025-02-02
+CLI-0114,  BRUNO COSTA  ,..bruno.costa..114@gmail.com,+55 98920542133,rj,15/01/2023,2317.41,2023-07-02
+CLI-0717,  DIEGO ALVES  ,..diego.alves..717@gmail.com,98995658729,SP,16/08/2025,"R$ 880,82",2026-02-11
+CLI-0371,Carla Souza,carla.souza371@outlook.com,98923088451,pa,25/05/2024,"R$ 840,57",2024-08-15
+CLI-0462,Carla Souza,carla.souza462@gmail.com,+55 98935928615,MA,19/11/2025,587.29,2025-12-18
+CLI-0042,Bruno Costa,bruno.costa42@outlook.com,98967937957,PA,20/01/2023,1292.98,2023-05-06
+CLI-0344,Elisa Rocha,elisa.rocha344@empresa.com.br,98907614785,MA,2023-12-10,"R$ 770,93",2024-02-21
+CLI-0192,Gabi Melo,gabi.melo192@empresa.com.br,(98) 99804-4850,sp,16/10/2024,"R$ 1.293,83",2024-12-10
+CLI-0173,Elisa Rocha,elisa.rocha173@outlook.com,+55 98941642992,RJ,2025-12-18,1955.08,2025-12-19
+CLI-0312,  GABI MELO  ,..gabi.melo..312@outlook.com,98967127817,Maranhao,28/06/2023,"R$ 2.119,88",2023-11-28
+CLI-0487,Carla Souza,carla.souza487@outlook.com,98963716196,pa,2025-05-07,120.80,2025-09-18
+CLI-0658,Ana Lima,ana.lima658@gmail.com,(98) 97933-7809,sp,03/12/2024,"R$ 1.193,59",2024-12-19
+CLI-0486,Carla Souza,carla.souza486@outlook.com,+55 98901219127,MA,2025-04-12,"R$ 2.576,46",2025-09-25
+CLI-0059,Diego Alves,diego.alves59@empresa.com.br,(98) 98560-0560,SP,2025-11-12,"R$ 977,27",2026-01-14
+CLI-0026,  DIEGO ALVES  ,..diego.alves..26@outlook.com,+55 98952882016,,11/12/2024,2247.98,2025-02-18
+CLI-0519,Carla Souza,carla.souza519@empresa.com.br,(98) 90067-7461,pa,2025-01-21,75.88,2025-07-12
+CLI-0458,Ana Lima,ana.lima458@outlook.com,+55 98982494465,pa,2024-02-13,"R$ 809,66",2024-06-23
+CLI-0009,Carla Souza,carla.souza9@outlook.com,+55 98999639546,pa,2024-07-27,"R$ 2.569,90",2024-12-31
+CLI-0159,  CARLA SOUZA  ,..carla.souza..159@empresa.com.br,+55 98961322153,ma,2024-09-19,331.71,2024-11-09
+CLI-0208,Gabi Melo,gabi.melo208@empresa.com.br,98966086144,,2025-06-02,"R$ 2.569,51",2025-06-27
+CLI-0665,Gabi Melo,gabi.melo665@outlook.com,+55 98900632275,ma,2024-02-08,1610.78,2024-04-16
+CLI-0333,Elisa Rocha,elisa.rocha333@gmail.com,+55 98977103193,SP,02/09/2023,2168.60,2023-10-06
+CLI-0371,Elisa Rocha,elisa.rocha371@empresa.com.br,(98) 96893-0831,pa,28/06/2023,"R$ 1.647,74",2023-10-13
+CLI-0341,Elisa Rocha,elisa.rocha341@empresa.com.br,98933339508,Maranhao,2025-03-03,"R$ 2.552,74",2025-08-04
+CLI-0412,Fabio Santos,fabio.santos412@gmail.com,98902340015,PA,02/01/2025,"R$ 1.775,14",2025-04-14
+CLI-0541,Diego Alves,diego.alves541@gmail.com,(98) 98295-1597,RJ,13/04/2025,924.30,2025-04-25
+CLI-0253,Bruno Costa,bruno.costa253@empresa.com.br,98912883223,SP,2025-05-14,847.49,2025-09-21
+CLI-0148,Carla Souza,carla.souza148@gmail.com,+55 98955770698,RJ,2023-07-09,"R$ 2.394,70",2023-10-24
+CLI-0359,Carla Souza,carla.souza359@outlook.com,,MA,2023-12-12,2122.20,2024-03-08
+CLI-0540,Gabi Melo,gabi.melo540@gmail.com,(98) 98084-6526,pa,2023-03-10,"R$ 110,65",2023-03-16
+CLI-0697,Carla Souza,carla.souza697empresa.com.br,+55 98984710946,MA,29/05/2025,1250.65,2025-06-16
+CLI-0233,  ANA LIMA  ,..ana.lima..233@gmail.com,98978697275,pa,2024-12-04,"R$ 1.701,21",2024-12-19
+CLI-0492,Elisa Rocha,elisa.rocha492@gmail.com,98956778672,SP,19/11/2024,"R$ 2.105,56",2025-04-14
+CLI-0501,Gabi Melo,gabi.melo501@empresa.com.br,+55 98925584268,rj,20/05/2024,1196.59,2024-09-23
+CLI-0416,Ana Lima,ana.lima416@gmail.com,+55 98922979213,SP,2024-07-09,790.66,2024-11-18
+CLI-0019,Gabi Melo,gabi.melo19@gmail.com,(98) 92127-3051,MA,25/04/2023,"R$ 828,89",2023-09-19
+CLI-0505,Carla Souza,carla.souza505@empresa.com.br,+55 98933088342,RJ,17/03/2023,"R$ 1.528,70",2023-07-03
+CLI-0424,  BRUNO COSTA  ,..bruno.costa..424@outlook.com,(98) 90580-3335,Maranhao,19/06/2023,"R$ 779,26",2023-07-04
+CLI-0116,Elisa Rocha,elisa.rocha116@gmail.com,+55 98970432927,RJ,15/06/2024,"R$ 850,40",2024-11-27
+CLI-0556,Gabi Melo,gabi.melo556@outlook.com,+55 98951590595,SP,12/09/2023,450.10,2024-01-19
+CLI-0326,  BRUNO COSTA  ,..bruno.costa..326@gmail.com,(98) 91127-7759,rj,2023-11-06,"R$ 913,47",2024-04-16
+CLI-0214,Diego Alves,diego.alves214@empresa.com.br,98952510367,rj,02/08/2025,"R$ 2.335,00",2025-09-08
+CLI-0388,Carla Souza,carla.souza388@gmail.com,98933356936,rj,19/04/2023,"R$ 271,51",2023-09-02
+CLI-0203,Gabi Melo,gabi.melo203@gmail.com,98972404826,SP,2025-05-10,"R$ 432,18",2025-10-31
+CLI-0471,  BRUNO COSTA  ,..bruno.costa..471@empresa.com.br,(98) 92322-5907,SP,01/08/2024,"R$ 2.287,29",2025-01-19
+CLI-0038,Bruno Costa,bruno.costa38@outlook.com,98919836470,MA,12/10/2025,2228.39,2026-04-05
+CLI-0385,Gabi Melo,gabi.melo385@gmail.com,(98) 91693-1765,ma,30/12/2024,2234.31,2025-05-26
+CLI-0680,Diego Alves,diego.alves680@empresa.com.br,+55 98988731132,sp,2025-05-05,1161.09,2025-07-24
+CLI-0104,Ana Lima,ana.lima104@gmail.com,(98) 93321-3047,ma,2025-08-30,1321.29,2025-09-11
+CLI-0082,Ana Lima,ana.lima82@outlook.com,+55 98912105955,sp,26/06/2024,"R$ 1.239,41",2024-07-21
+CLI-0681,Carla Souza,carla.souza681@outlook.com,98913822016,Maranhao,10/08/2024,2418.87,2024-12-02
+CLI-0550,Ana Lima,ana.lima550@gmail.com,98969587648,,2024-06-16,"R$ 1.730,72",2024-10-15
+CLI-0444,Gabi Melo,gabi.melo444@outlook.com,+55 98902435942,sp,24/04/2025,"R$ 1.292,92",2025-10-12
+CLI-0225,Diego Alves,diego.alves225outlook.com,98910893971,,29/12/2025,"R$ 643,89",2026-05-29
+CLI-0627,Carla Souza,carla.souza627@gmail.com,+55 98997051413,MA,2025-03-20,"R$ 2.425,20",2025-06-30
+CLI-0004,Carla Souza,carla.souza4@empresa.com.br,98921389694,rj,2024-09-11,"R$ 94,78",2025-01-10
+CLI-0577,Diego Alves,diego.alves577@empresa.com.br,98940068538,RJ,05/01/2023,"R$ 1.153,63",2023-06-02
+CLI-0633,Gabi Melo,gabi.melo633gmail.com,,SP,2024-04-17,606.98,2024-05-14
+CLI-0063,Elisa Rocha,elisa.rocha63outlook.com,(98) 95188-9031,ma,2023-12-02,779.71,2023-12-19
+CLI-0110,  BRUNO COSTA  ,..bruno.costa..110@outlook.com,(98) 95524-7059,rj,2023-02-02,128.96,2023-06-23
+CLI-0602,Carla Souza,carla.souza602@outlook.com,98921727858,PA,2025-04-09,2316.11,2025-07-19
+CLI-0082,Diego Alves,diego.alves82@gmail.com,98948457181,MA,26/06/2024,786.12,2024-11-08
+CLI-0431,  GABI MELO  ,..gabi.melo..431@outlook.com,(98) 96263-4633,,14/08/2023,2034.61,2023-10-15
+CLI-0590,  ANA LIMA  ,..ana.lima..590@gmail.com,98994219839,RJ,2025-09-05,1647.57,2026-01-01
+CLI-0241,Carla Souza,carla.souza241@empresa.com.br,+55 98955192559,RJ,2024-01-25,1925.66,2024-03-25
+CLI-0398,Fabio Santos,fabio.santos398@outlook.com,98902550083,,23/01/2024,"R$ 316,16",2024-03-13
+CLI-0250,Gabi Melo,gabi.melo250@outlook.com,98950928705,ma,2024-09-30,"R$ 94,11",2024-12-04
+CLI-0363,Elisa Rocha,elisa.rocha363@gmail.com,+55 98936259262,pa,2024-03-03,2362.63,2024-04-09
+CLI-0448,Gabi Melo,gabi.melo448@gmail.com,+55 98918175116,RJ,06/05/2023,"R$ 1.295,56",2023-08-20
+CLI-0313,Elisa Rocha,elisa.rocha313@empresa.com.br,,PA,31/07/2024,1205.97,2024-10-29
+CLI-0389,  ANA LIMA  ,..ana.lima..389@empresa.com.br,+55 98936345694,rj,12/01/2024,2005.41,2024-05-23
+CLI-0178,Carla Souza,carla.souza178empresa.com.br,+55 98948297523,RJ,09/06/2023,973.19,2023-09-07
+CLI-0224,Gabi Melo,gabi.melo224@outlook.com,98999320262,ma,29/01/2024,"R$ 644,74",2024-03-24
+CLI-0644,Gabi Melo,gabi.melo644@gmail.com,98948820006,pa,12/10/2025,"R$ 1.016,44",2026-02-14
+CLI-0253,Ana Lima,ana.lima253@empresa.com.br,98935792520,SP,17/07/2023,"R$ 2.397,24",2023-07-31
+CLI-0546,Fabio Santos,fabio.santos546outlook.com,,pa,2024-05-15,"R$ 2.525,16",2024-05-15
+CLI-0619,Carla Souza,carla.souza619@empresa.com.br,98953059486,,2024-08-16,628.84,2025-01-27
+CLI-0467,Diego Alves,diego.alves467@gmail.com,98981802657,sp,30/01/2023,1815.98,2023-04-04
+CLI-0497,Gabi Melo,gabi.melo497@outlook.com,+55 98910034436,PA,2023-06-14,"R$ 1.454,46",2023-11-02
+CLI-0717,Ana Lima,ana.lima717@gmail.com,+55 98947980835,,2023-01-23,668.48,2023-03-28
+CLI-0042,  BRUNO COSTA  ,..bruno.costa..42empresa.com.br,+55 98959875160,sp,2023-08-24,371.41,2023-11-25
+CLI-0361,Fabio Santos,fabio.santos361@outlook.com,,ma,26/04/2023,1244.89,2023-08-02
+CLI-0437,Bruno Costa,bruno.costa437@gmail.com,+55 98998407034,Maranhao,02/12/2023,333.38,2024-01-09
+CLI-0168,Fabio Santos,fabio.santos168@gmail.com,(98) 98423-0850,pa,28/05/2025,"R$ 75,51",2025-06-29
+CLI-0017,Fabio Santos,fabio.santos17@outlook.com,,SP,2023-09-16,360.27,2023-11-18
+CLI-0637,Fabio Santos,fabio.santos637empresa.com.br,(98) 90649-4630,SP,2023-09-11,"R$ 1.845,30",2024-01-06
+CLI-0131,Fabio Santos,fabio.santos131@gmail.com,(98) 97209-5100,PA,21/08/2024,2079.16,2024-12-22
+CLI-0122,Carla Souza,carla.souza122gmail.com,+55 98930500644,sp,2025-08-20,"R$ 82,92",2025-10-31
+CLI-0707,Fabio Santos,fabio.santos707@outlook.com,+55 98986449079,RJ,2025-09-17,1545.34,2026-01-13
+CLI-0445,Ana Lima,ana.lima445gmail.com,98944612571,RJ,07/10/2023,171.26,2024-02-04
+CLI-0667,Diego Alves,diego.alves667@empresa.com.br,98913251662,rj,06/09/2023,"R$ 1.387,22",2023-09-29
+CLI-0685,  CARLA SOUZA  ,..carla.souza..685@gmail.com,98953892107,pa,13/11/2023,"R$ 1.405,75",2023-12-27
+CLI-0192,  CARLA SOUZA  ,..carla.souza..192gmail.com,(98) 93594-1376,MA,2024-09-17,1937.87,2024-11-26
+CLI-0259,Fabio Santos,fabio.santos259@gmail.com,(98) 95093-0284,RJ,19/08/2024,"R$ 280,92",2024-11-26
+CLI-0719,Carla Souza,carla.souza719@empresa.com.br,+55 98985513031,MA,02/02/2025,"R$ 256,47",2025-02-14
+CLI-0181,Fabio Santos,fabio.santos181@gmail.com,,SP,2025-08-26,156.88,2025-09-19
+CLI-0029,Fabio Santos,fabio.santos29@gmail.com,98983527323,MA,2025-11-12,1761.97,2026-03-15
+CLI-0255,Bruno Costa,bruno.costa255@gmail.com,+55 98914838593,rj,2024-09-20,2457.28,2024-10-01
+CLI-0191,Fabio Santos,fabio.santos191@empresa.com.br,98932782004,ma,2025-02-18,"R$ 1.307,56",2025-08-16
+CLI-0597,  CARLA SOUZA  ,..carla.souza..597outlook.com,(98) 91187-0345,MA,2024-09-01,"R$ 191,17",2024-11-13
+CLI-0586,Gabi Melo,gabi.melo586@gmail.com,98915997121,MA,2024-06-20,2072.19,2024-08-18
+CLI-0397,Gabi Melo,gabi.melo397@gmail.com,98985871745,RJ,2025-01-26,"R$ 1.684,42",2025-05-09
+CLI-0305,Carla Souza,carla.souza305@gmail.com,98957805952,pa,29/06/2024,1379.00,2024-09-14
+CLI-0513,Carla Souza,carla.souza513@outlook.com,98913808951,ma,2023-08-10,"R$ 2.276,34",2023-12-21
+CLI-0606,Fabio Santos,fabio.santos606@empresa.com.br,+55 98900579060,Maranhao,22/05/2025,"R$ 1.879,48",2025-07-13
+CLI-0025,Carla Souza,carla.souza25@gmail.com,98901156073,pa,2024-11-13,"R$ 1.711,81",2025-02-22
+CLI-0187,  BRUNO COSTA  ,..bruno.costa..187@empresa.com.br,98982129925,ma,2025-09-25,"R$ 509,52",2025-12-04
+CLI-0670,Elisa Rocha,elisa.rocha670@gmail.com,98907708334,sp,2024-01-31,"R$ 1.877,96",2024-06-06
+CLI-0269,Diego Alves,diego.alves269@empresa.com.br,(98) 98752-6722,rj,15/10/2023,"R$ 361,76",2024-02-19
+CLI-0287,Ana Lima,ana.lima287@empresa.com.br,(98) 97065-2954,pa,06/08/2025,"R$ 883,88",2026-01-25
+CLI-0167,Gabi Melo,gabi.melo167@outlook.com,98998185621,Maranhao,2024-11-19,"R$ 2.466,36",2025-04-14
+CLI-0315,Fabio Santos,fabio.santos315@gmail.com,98947686104,SP,23/06/2025,"R$ 1.970,25",2025-12-03
+CLI-0274,Bruno Costa,bruno.costa274gmail.com,(98) 92326-0471,RJ,28/06/2023,664.74,2023-11-26
+CLI-0097,Fabio Santos,fabio.santos97@outlook.com,+55 98933648649,RJ,11/01/2025,554.25,2025-04-14
+CLI-0172,Diego Alves,diego.alves172@empresa.com.br,(98) 93355-1004,,16/10/2025,"R$ 1.401,04",2025-11-19
+CLI-0224,Diego Alves,diego.alves224@outlook.com,+55 98962939131,ma,2024-03-30,"R$ 1.554,47",2024-06-09
+CLI-0580,Carla Souza,carla.souza580@empresa.com.br,98991053480,ma,2024-06-29,2461.42,2024-07-04
+CLI-0568,Fabio Santos,fabio.santos568@gmail.com,(98) 98579-2968,pa,23/06/2025,992.37,2025-09-04
+CLI-0326,Diego Alves,diego.alves326@gmail.com,(98) 96500-5215,PA,10/09/2024,1712.07,2024-11-23
+CLI-0550,Carla Souza,carla.souza550@empresa.com.br,+55 98975732776,sp,2024-07-04,"R$ 1.525,02",2024-07-25
+CLI-0041,Bruno Costa,bruno.costa41@empresa.com.br,98997449151,pa,2024-04-08,344.89,2024-05-24
+CLI-0116,Ana Lima,ana.lima116@outlook.com,98944433920,rj,2024-01-20,"R$ 2.464,92",2024-05-03
+CLI-0140,Elisa Rocha,elisa.rocha140@gmail.com,(98) 93654-9537,rj,16/01/2023,262.36,2023-01-19
+CLI-0360,Elisa Rocha,elisa.rocha360@empresa.com.br,+55 98904699976,PA,2024-01-23,"R$ 823,99",2024-02-29
+CLI-0615,Gabi Melo,gabi.melo615@outlook.com,+55 98919809499,rj,2024-08-16,"R$ 1.988,07",2024-12-16
+CLI-0144,Elisa Rocha,elisa.rocha144@outlook.com,98929517327,Maranhao,2025-04-11,"R$ 2.591,10",2025-04-20
+CLI-0013,  GABI MELO  ,..gabi.melo..13@outlook.com,+55 98903436792,MA,2025-06-18,2421.90,2025-10-05
+CLI-0255,  GABI MELO  ,..gabi.melo..255@outlook.com,+55 98977747015,PA,22/06/2025,"R$ 1.879,70",2025-08-24
+CLI-0070,Ana Lima,ana.lima70@gmail.com,+55 98903581093,PA,22/01/2025,2581.84,2025-02-13
+CLI-0302,Fabio Santos,fabio.santos302@outlook.com,(98) 96705-3780,pa,19/05/2024,981.22,2024-08-04
+CLI-0027,Elisa Rocha,elisa.rocha27@outlook.com,(98) 91992-7836,RJ,27/06/2025,"R$ 1.316,93",2025-12-19
+CLI-0401,  CARLA SOUZA  ,..carla.souza..401@gmail.com,+55 98921625303,MA,20/11/2023,1103.56,2024-05-12
+CLI-0049,Bruno Costa,bruno.costa49@outlook.com,(98) 96735-6880,SP,25/02/2025,"R$ 761,66",2025-03-08
+CLI-0583,  ELISA ROCHA  ,..elisa.rocha..583@gmail.com,98914820484,RJ,11/04/2025,2341.83,2025-07-28
+CLI-0470,Carla Souza,carla.souza470@empresa.com.br,(98) 96828-5104,RJ,2024-10-20,"R$ 636,41",2024-11-20
+CLI-0215,Fabio Santos,fabio.santos215@empresa.com.br,(98) 90135-1101,sp,2023-06-29,1121.35,2023-07-08
+CLI-0556,Bruno Costa,bruno.costa556@empresa.com.br,,ma,2023-01-31,"R$ 1.906,74",2023-06-14
+CLI-0121,  FABIO SANTOS  ,..fabio.santos..121@empresa.com.br,98979304395,ma,2025-11-27,"R$ 1.785,82",2026-02-23
+CLI-0039,Elisa Rocha,elisa.rocha39@empresa.com.br,+55 98925994428,RJ,2024-01-22,"R$ 769,51",2024-03-20
+CLI-0195,Fabio Santos,fabio.santos195@gmail.com,98946671763,,06/04/2024,"R$ 1.559,75",2024-07-28
+CLI-0133,  DIEGO ALVES  ,..diego.alves..133@empresa.com.br,+55 98903252843,pa,2024-09-01,125.15,2024-11-26
+CLI-0685,  FABIO SANTOS  ,..fabio.santos..685@empresa.com.br,98947187619,rj,20/03/2023,347.31,2023-08-02
+CLI-0350,Carla Souza,carla.souza350@empresa.com.br,(98) 99239-4157,sp,01/03/2024,1590.99,2024-03-04
+CLI-0246,  FABIO SANTOS  ,..fabio.santos..246@outlook.com,+55 98914182825,pa,17/01/2024,"R$ 2.527,52",2024-03-22
+CLI-0209,Bruno Costa,bruno.costa209@outlook.com,(98) 99972-8268,ma,28/04/2025,"R$ 1.445,71",2025-07-23
+CLI-0369,Gabi Melo,gabi.melo369outlook.com,(98) 93508-2728,SP,20/04/2024,2120.68,2024-09-22
+CLI-0712,Ana Lima,ana.lima712@outlook.com,(98) 96315-0225,SP,25/11/2025,1997.26,2026-03-20
+CLI-0511,Gabi Melo,gabi.melo511@empresa.com.br,+55 98985901916,pa,2024-12-27,1619.59,2025-02-21
+CLI-0193,Diego Alves,diego.alves193@gmail.com,+55 98900651122,sp,2024-09-06,"R$ 1.116,64",2024-11-02
+CLI-0580,Elisa Rocha,elisa.rocha580@outlook.com,(98) 97755-3808,SP,2023-10-23,446.03,2024-03-13
+CLI-0245,Diego Alves,diego.alves245@empresa.com.br,98902849655,PA,01/09/2024,"R$ 128,72",2025-02-21
+CLI-0020,Diego Alves,diego.alves20@gmail.com,+55 98971628155,rj,2025-06-07,"R$ 781,52",2025-09-19
+CLI-0070,Fabio Santos,fabio.santos70@gmail.com,(98) 99691-6969,Maranhao,2024-10-22,1071.20,2025-04-18
+CLI-0065,Gabi Melo,gabi.melo65empresa.com.br,(98) 95651-1954,pa,2025-06-26,1778.41,2025-12-09
+CLI-0531,Bruno Costa,bruno.costa531@empresa.com.br,(98) 98768-3353,MA,2023-03-02,"R$ 2.547,19",2023-05-18
+CLI-0197,Ana Lima,ana.lima197@gmail.com,98990241430,ma,12/11/2024,1528.05,2025-04-13
+CLI-0268,  CARLA SOUZA  ,..carla.souza..268@empresa.com.br,98998167231,sp,2025-07-01,1336.12,2025-12-14
+CLI-0204,Ana Lima,ana.lima204@empresa.com.br,98954559451,ma,04/01/2024,"R$ 1.370,08",2024-05-29
+CLI-0152,Diego Alves,diego.alves152@outlook.com,98924129105,ma,2023-04-25,"R$ 2.410,73",2023-09-28
+CLI-0043,  CARLA SOUZA  ,..carla.souza..43@outlook.com,98996755078,,08/02/2024,"R$ 1.904,46",2024-05-20
+CLI-0067,Diego Alves,diego.alves67@empresa.com.br,+55 98989212519,,07/12/2025,838.09,2026-04-26
+CLI-0670,Gabi Melo,gabi.melo670@empresa.com.br,,,2023-07-13,2590.94,2023-09-28
+CLI-0274,Gabi Melo,gabi.melo274@empresa.com.br,+55 98950051111,Maranhao,2023-11-19,"R$ 851,45",2023-12-18
+CLI-0144,Diego Alves,diego.alves144@gmail.com,+55 98917845103,PA,2023-01-11,"R$ 223,70",2023-03-06
+CLI-0718,Bruno Costa,bruno.costa718@gmail.com,98978601823,,2025-08-21,"R$ 1.460,51",2026-01-26
+CLI-0544,Bruno Costa,bruno.costa544empresa.com.br,98964007855,rj,2025-07-12,1754.61,2025-12-29
+CLI-0436,Fabio Santos,fabio.santos436@outlook.com,(98) 92287-8762,pa,24/10/2025,"R$ 653,71",2026-02-22
+CLI-0233,  ANA LIMA  ,..ana.lima..233outlook.com,98941579981,RJ,07/12/2024,"R$ 181,37",2025-02-19
+CLI-0614,Gabi Melo,gabi.melo614@outlook.com,+55 98920535260,rj,12/07/2023,273.03,2023-11-11
+CLI-0312,  CARLA SOUZA  ,..carla.souza..312@empresa.com.br,98922770211,Maranhao,2023-07-06,2212.60,2023-08-26
+CLI-0615,Elisa Rocha,elisa.rocha615@gmail.com,(98) 94357-3006,RJ,13/01/2023,1009.00,2023-01-16
+CLI-0359,  BRUNO COSTA  ,..bruno.costa..359@gmail.com,(98) 91424-7363,rj,2023-01-06,"R$ 2.131,81",2023-02-15
+CLI-0099,Ana Lima,ana.lima99@empresa.com.br,(98) 99153-4783,MA,06/06/2023,886.60,2023-12-02
+CLI-0430,Gabi Melo,gabi.melo430@gmail.com,98915026202,pa,2024-05-17,"R$ 668,95",2024-07-07
+CLI-0339,Elisa Rocha,elisa.rocha339@gmail.com,(98) 98261-0449,PA,12/09/2024,1293.81,2025-01-03
+CLI-0613,Carla Souza,carla.souza613@gmail.com,(98) 92252-1062,Maranhao,2023-08-15,"R$ 980,17",2024-01-30
+CLI-0692,Diego Alves,diego.alves692outlook.com,(98) 91185-5576,sp,12/06/2023,2234.87,2023-07-28
+CLI-0371,Fabio Santos,fabio.santos371empresa.com.br,(98) 91663-8462,sp,2023-04-01,2057.13,2023-06-14
+CLI-0454,Elisa Rocha,elisa.rocha454gmail.com,+55 98984332202,rj,2025-05-09,420.43,2025-10-09
+CLI-0469,Carla Souza,carla.souza469@empresa.com.br,(98) 97718-6322,RJ,2024-05-16,"R$ 690,81",2024-08-15
+CLI-0120,Gabi Melo,gabi.melo120@gmail.com,+55 98984464681,PA,2025-07-20,502.07,2025-08-23
+CLI-0219,Fabio Santos,fabio.santos219@outlook.com,98962527328,,2024-05-18,"R$ 2.568,04",2024-07-17
+CLI-0546,Fabio Santos,fabio.santos546@gmail.com,+55 98992919421,rj,2024-12-26,1252.78,2025-01-06
+CLI-0269,Elisa Rocha,elisa.rocha269@outlook.com,(98) 93564-8687,,2024-07-22,"R$ 140,65",2024-12-28
+CLI-0367,  BRUNO COSTA  ,..bruno.costa..367@outlook.com,98999156030,MA,01/07/2023,"R$ 133,97",2023-11-14
+CLI-0413,Ana Lima,ana.lima413@outlook.com,(98) 91297-5350,,2025-06-29,"R$ 1.323,51",2025-08-06
+CLI-0662,Elisa Rocha,elisa.rocha662@empresa.com.br,+55 98951684297,SP,2023-08-02,1702.98,2024-01-27
+CLI-0600,Gabi Melo,gabi.melo600@empresa.com.br,98948850035,pa,17/03/2024,462.32,2024-07-29
+CLI-0647,Diego Alves,diego.alves647gmail.com,98994364888,rj,2025-02-22,"R$ 526,87",2025-04-21
+CLI-0648,Ana Lima,ana.lima648@empresa.com.br,(98) 94713-5091,Maranhao,27/03/2023,"R$ 1.884,65",2023-07-10
+CLI-0452,Elisa Rocha,elisa.rocha452@outlook.com,+55 98910775876,PA,18/06/2023,1190.84,2023-08-08
+CLI-0335,Fabio Santos,fabio.santos335@gmail.com,98952605972,PA,2024-12-20,300.00,2025-06-18
+CLI-0689,  CARLA SOUZA  ,..carla.souza..689@gmail.com,+55 98943332331,sp,14/08/2025,2517.63,2025-12-20
+CLI-0483,Bruno Costa,bruno.costa483@empresa.com.br,+55 98900549484,sp,28/10/2023,"R$ 2.296,06",2024-03-13
+CLI-0458,Ana Lima,ana.lima458@gmail.com,+55 98955462615,rj,2023-09-03,"R$ 1.636,41",2024-02-06
+CLI-0457,Gabi Melo,gabi.melo457@gmail.com,98965844435,,2024-04-19,"R$ 2.035,88",2024-09-03
+CLI-0539,Ana Lima,ana.lima539@gmail.com,(98) 92356-5062,RJ,17/09/2023,1056.57,2023-10-13
+CLI-0285,Carla Souza,carla.souza285@empresa.com.br,(98) 92258-3114,SP,25/12/2024,"R$ 1.378,65",2025-02-20
+CLI-0136,  DIEGO ALVES  ,..diego.alves..136@outlook.com,+55 98970930822,sp,14/06/2025,1530.76,2025-09-02
+CLI-0580,Elisa Rocha,elisa.rocha580@outlook.com,+55 98910449845,SP,15/04/2025,"R$ 2.484,96",2025-06-22
+CLI-0081,Bruno Costa,bruno.costa81@outlook.com,(98) 96115-0359,Maranhao,2023-10-16,484.71,2024-01-15
+CLI-0487,Gabi Melo,gabi.melo487empresa.com.br,98909288670,PA,2023-09-26,"R$ 1.049,44",2024-01-14
+CLI-0146,Elisa Rocha,elisa.rocha146@gmail.com,(98) 95960-3785,ma,17/08/2025,2241.57,2026-01-12
+CLI-0378,Elisa Rocha,elisa.rocha378@gmail.com,98929220840,MA,08/12/2024,"R$ 811,77",2025-01-20
+CLI-0041,  BRUNO COSTA  ,..bruno.costa..41gmail.com,98912425782,ma,2025-07-31,"R$ 1.444,91",2025-10-03
+CLI-0482,  ELISA ROCHA  ,..elisa.rocha..482@outlook.com,,sp,29/07/2023,1341.73,2023-11-16
+CLI-0387,Fabio Santos,fabio.santos387@gmail.com,(98) 93126-9383,rj,2024-04-29,"R$ 1.865,05",2024-08-22
+CLI-0053,Carla Souza,carla.souza53@empresa.com.br,98924816160,ma,29/10/2025,"R$ 811,86",2026-03-05
+CLI-0503,Diego Alves,diego.alves503@empresa.com.br,+55 98919463638,,10/11/2024,"R$ 1.727,70",2025-03-23
+CLI-0471,Carla Souza,carla.souza471@empresa.com.br,(98) 98440-2784,,2024-06-26,"R$ 905,59",2024-11-04
+CLI-0048,Ana Lima,ana.lima48@outlook.com,+55 98952459321,PA,2023-05-23,1220.70,2023-07-10
+CLI-0703,  DIEGO ALVES  ,..diego.alves..703@outlook.com,+55 98961083317,SP,2025-03-22,1783.85,2025-05-14
+CLI-0708,Fabio Santos,fabio.santos708@outlook.com,98983845348,sp,11/06/2024,"R$ 347,00",2024-07-07
+CLI-0339,Ana Lima,ana.lima339@empresa.com.br,+55 98975222332,SP,2024-04-04,"R$ 1.763,81",2024-05-13
+CLI-0015,Carla Souza,carla.souza15@gmail.com,(98) 98742-2064,rj,19/10/2025,825.94,2025-11-26
+CLI-0671,Fabio Santos,fabio.santos671@outlook.com,+55 98946944167,Maranhao,20/06/2023,2055.86,2023-10-15
+CLI-0051,Carla Souza,carla.souza51gmail.com,+55 98919236234,sp,2024-09-06,"R$ 2.171,64",2024-12-12
+CLI-0402,Gabi Melo,gabi.melo402empresa.com.br,+55 98996819334,pa,2024-06-15,332.27,2024-06-26
+CLI-0675,Bruno Costa,bruno.costa675@outlook.com,+55 98922965276,,2024-10-03,"R$ 2.410,02",2025-02-12
+CLI-0593,Bruno Costa,bruno.costa593@outlook.com,+55 98956971357,ma,20/11/2023,"R$ 1.203,81",2023-12-02
+CLI-0056,Ana Lima,ana.lima56@outlook.com,,RJ,2025-05-20,1904.17,2025-10-27
+CLI-0236,Elisa Rocha,elisa.rocha236@gmail.com,98963498805,RJ,12/11/2023,"R$ 1.042,44",2024-02-13
+CLI-0043,Ana Lima,ana.lima43@empresa.com.br,(98) 99686-2921,Maranhao,02/03/2024,"R$ 640,40",2024-07-17
+CLI-0303,Elisa Rocha,elisa.rocha303@empresa.com.br,+55 98937364134,rj,2023-09-22,1785.21,2023-10-06
+CLI-0110,Fabio Santos,fabio.santos110@empresa.com.br,+55 98923334421,,29/04/2023,"R$ 557,26",2023-05-29
+CLI-0030,Bruno Costa,bruno.costa30@gmail.com,98965741853,,17/06/2025,1174.95,2025-12-07
+CLI-0252,  GABI MELO  ,..gabi.melo..252@gmail.com,98926894338,,21/03/2024,1841.96,2024-04-13
+CLI-0535,  BRUNO COSTA  ,..bruno.costa..535@gmail.com,(98) 94522-1659,PA,04/09/2023,2332.49,2023-11-28
+CLI-0039,Carla Souza,carla.souza39@empresa.com.br,(98) 91491-1709,sp,2023-08-19,"R$ 290,43",2023-09-22
+CLI-0459,Diego Alves,diego.alves459empresa.com.br,98928152504,RJ,14/02/2023,428.06,2023-07-03
+CLI-0546,  CARLA SOUZA  ,..carla.souza..546@empresa.com.br,+55 98992812977,PA,25/06/2025,1716.20,2025-11-30
+CLI-0528,Ana Lima,ana.lima528@outlook.com,(98) 98527-3034,sp,2025-07-26,1397.12,2026-01-13
+CLI-0381,Bruno Costa,bruno.costa381@outlook.com,+55 98954049121,SP,16/01/2024,"R$ 705,97",2024-06-24
+CLI-0598,Fabio Santos,fabio.santos598@outlook.com,(98) 92289-0314,Maranhao,03/07/2023,"R$ 474,52",2023-11-25
+CLI-0678,Elisa Rocha,elisa.rocha678@gmail.com,98949494580,rj,2023-06-05,"R$ 682,28",2023-07-18
+CLI-0053,Bruno Costa,bruno.costa53@outlook.com,,PA,2024-01-24,1518.27,2024-05-12
+CLI-0612,Elisa Rocha,elisa.rocha612@gmail.com,98943291870,Maranhao,2023-01-13,"R$ 1.550,30",2023-02-05
+CLI-0396,Elisa Rocha,elisa.rocha396@outlook.com,(98) 98945-0224,ma,2024-03-13,"R$ 1.452,07",2024-04-22
+CLI-0368,Diego Alves,diego.alves368@outlook.com,+55 98956944230,SP,13/11/2025,980.12,2026-03-12
+CLI-0286,  DIEGO ALVES  ,..diego.alves..286@gmail.com,+55 98923691084,PA,2025-07-26,"R$ 329,98",2026-01-20
+CLI-0719,Diego Alves,diego.alves719@empresa.com.br,(98) 91314-4935,sp,2023-07-27,2451.46,2023-12-17
+CLI-0695,Elisa Rocha,elisa.rocha695empresa.com.br,+55 98929022823,rj,2024-12-19,2378.02,2025-01-02
+CLI-0624,  BRUNO COSTA  ,..bruno.costa..624@gmail.com,,SP,2024-10-12,"R$ 1.890,84",2025-02-11
+CLI-0629,Gabi Melo,gabi.melo629@gmail.com,+55 98996051860,,2023-03-14,690.83,2023-05-04
+CLI-0013,Elisa Rocha,elisa.rocha13@outlook.com,+55 98978601548,rj,08/06/2023,1221.29,2023-09-15
+CLI-0522,Elisa Rocha,elisa.rocha522@outlook.com,+55 98944682368,sp,24/07/2023,"R$ 839,60",2023-07-27
+CLI-0061,Diego Alves,diego.alves61@outlook.com,(98) 97597-4047,Maranhao,2025-04-08,2344.40,2025-07-12
+CLI-0493,Ana Lima,ana.lima493@gmail.com,+55 98933502322,,2024-05-21,1334.76,2024-10-28
+CLI-0352,  GABI MELO  ,..gabi.melo..352@gmail.com,(98) 92168-2673,RJ,05/04/2024,1100.53,2024-10-01
+CLI-0074,Ana Lima,ana.lima74@outlook.com,98979145354,pa,10/04/2025,"R$ 1.025,09",2025-05-28
+CLI-0650,Carla Souza,carla.souza650@outlook.com,98949641356,SP,03/12/2023,980.23,2024-05-02
+CLI-0168,Diego Alves,diego.alves168@gmail.com,+55 98949461353,Maranhao,2024-05-06,"R$ 1.559,72",2024-10-03
+CLI-0716,Gabi Melo,gabi.melo716@gmail.com,+55 98953546010,RJ,01/09/2024,1520.67,2024-12-12
+CLI-0331,Carla Souza,carla.souza331@empresa.com.br,+55 98924573933,PA,2023-01-07,321.19,2023-03-27
+CLI-0176,Bruno Costa,bruno.costa176@empresa.com.br,98988098959,sp,2023-11-01,"R$ 415,98",2023-12-01
+CLI-0035,Ana Lima,ana.lima35@outlook.com,+55 98993400090,rj,2023-06-07,"R$ 1.931,77",2023-08-02
+CLI-0115,  ELISA ROCHA  ,..elisa.rocha..115@empresa.com.br,98982609259,Maranhao,31/10/2025,"R$ 947,00",2026-02-21
+CLI-0559,  GABI MELO  ,..gabi.melo..559@empresa.com.br,(98) 98282-1205,ma,28/05/2023,2036.76,2023-09-04
+CLI-0691,Gabi Melo,gabi.melo691@outlook.com,98918240749,,27/07/2025,"R$ 2.072,47",2025-12-24
+CLI-0214,Fabio Santos,fabio.santos214@gmail.com,+55 98933752934,SP,2025-04-29,1053.78,2025-09-25
+CLI-0313,  CARLA SOUZA  ,..carla.souza..313@outlook.com,+55 98963018070,rj,2023-04-28,"R$ 1.601,80",2023-10-04
+CLI-0554,Elisa Rocha,elisa.rocha554@gmail.com,98930050438,PA,30/12/2024,277.35,2025-01-14
+CLI-0196,Bruno Costa,bruno.costa196@gmail.com,98902175990,RJ,01/03/2023,"R$ 1.205,29",2023-05-01
+CLI-0322,Bruno Costa,bruno.costa322@gmail.com,,pa,05/02/2025,1726.61,2025-07-04
+CLI-0470,Elisa Rocha,elisa.rocha470@empresa.com.br,98902294581,Maranhao,2023-05-01,2254.35,2023-06-04
+CLI-0221,  CARLA SOUZA  ,..carla.souza..221@empresa.com.br,98970001882,SP,2024-12-20,"R$ 673,09",2025-02-01
+CLI-0163,Fabio Santos,fabio.santos163@empresa.com.br,+55 98981022187,ma,06/10/2023,1161.65,2024-02-29
+CLI-0052,Ana Lima,ana.lima52@outlook.com,,,2024-11-10,149.10,2024-11-23
+CLI-0162,Carla Souza,carla.souza162@gmail.com,+55 98937962607,ma,28/06/2023,"R$ 64,05",2023-12-19
+CLI-0295,Gabi Melo,gabi.melo295@empresa.com.br,(98) 94824-2665,SP,2025-08-27,"R$ 238,67",2025-12-10
+CLI-0028,Gabi Melo,gabi.melo28@outlook.com,(98) 90691-1502,PA,2025-08-18,1912.82,2025-10-11
+CLI-0443,Bruno Costa,bruno.costa443@outlook.com,98907592575,MA,2023-09-11,"R$ 1.460,64",2023-11-22
+CLI-0178,Bruno Costa,bruno.costa178@gmail.com,(98) 98456-9597,ma,31/10/2025,"R$ 1.423,49",2026-04-20
+CLI-0690,Bruno Costa,bruno.costa690@gmail.com,+55 98939259217,,10/03/2025,"R$ 482,20",2025-04-08
+CLI-0257,Ana Lima,ana.lima257@outlook.com,(98) 90877-8154,SP,04/09/2023,"R$ 2.371,69",2024-01-30
+CLI-0347,Ana Lima,ana.lima347gmail.com,(98) 95129-8499,sp,2023-05-08,322.35,2023-10-09
+CLI-0383,Elisa Rocha,elisa.rocha383outlook.com,(98) 95672-8089,sp,17/04/2025,1642.29,2025-07-03
+CLI-0219,Ana Lima,ana.lima219@outlook.com,98976487900,pa,2024-01-30,"R$ 2.223,78",2024-05-10
+CLI-0492,Diego Alves,diego.alves492@outlook.com,98970709809,Maranhao,2024-11-15,984.18,2025-02-20
+CLI-0363,Diego Alves,diego.alves363@gmail.com,+55 98931735175,rj,05/02/2023,"R$ 2.239,85",2023-05-09
+CLI-0122,Ana Lima,ana.lima122@gmail.com,(98) 92968-8643,RJ,17/10/2023,2367.89,2024-03-10
+CLI-0101,Elisa Rocha,elisa.rocha101@empresa.com.br,(98) 95260-5031,MA,2025-01-16,"R$ 2.137,92",2025-05-08
+CLI-0468,Bruno Costa,bruno.costa468@outlook.com,98934637564,ma,2025-06-28,2588.56,2025-07-13
+CLI-0045,Elisa Rocha,elisa.rocha45@empresa.com.br,+55 98929840168,rj,01/09/2023,"R$ 2.498,64",2023-10-13
+CLI-0552,Gabi Melo,gabi.melo552@empresa.com.br,98998044781,pa,2023-06-10,"R$ 1.701,07",2023-09-14
+CLI-0312,Bruno Costa,bruno.costa312@empresa.com.br,(98) 98339-6927,RJ,08/05/2023,447.26,2023-07-22
+CLI-0231,Elisa Rocha,elisa.rocha231@gmail.com,98991406744,,2025-08-27,"R$ 435,24",2026-02-12
+CLI-0309,Diego Alves,diego.alves309@empresa.com.br,98951420790,RJ,2023-05-30,"R$ 909,53",2023-09-15
+CLI-0248,Fabio Santos,fabio.santos248@outlook.com,+55 98964518127,PA,01/04/2023,"R$ 1.641,91",2023-04-01
+CLI-0025,  FABIO SANTOS  ,..fabio.santos..25@gmail.com,+55 98997713497,rj,21/08/2024,"R$ 2.014,64",2025-01-06
+CLI-0612,Carla Souza,carla.souza612@gmail.com,(98) 90884-6421,Maranhao,2024-03-20,1004.98,2024-08-21
+CLI-0494,  BRUNO COSTA  ,..bruno.costa..494@empresa.com.br,+55 98926500211,RJ,21/10/2023,"R$ 2.326,37",2023-12-01
+CLI-0018,Bruno Costa,bruno.costa18@gmail.com,98911862422,MA,2024-07-18,"R$ 285,78",2024-10-14
+CLI-0422,Ana Lima,ana.lima422@empresa.com.br,+55 98949650643,sp,2025-01-27,549.17,2025-04-04
+CLI-0248,Gabi Melo,gabi.melo248@empresa.com.br,+55 98950130991,rj,14/09/2025,"R$ 1.255,68",2025-12-05
+CLI-0280,Carla Souza,carla.souza280@outlook.com,(98) 91775-3241,SP,2025-12-05,"R$ 1.978,37",2026-01-04
+CLI-0156,Ana Lima,ana.lima156@empresa.com.br,98988388722,,20/09/2023,"R$ 1.247,38",2023-09-22
+CLI-0060,Carla Souza,carla.souza60@outlook.com,+55 98940493889,rj,25/11/2025,2363.74,2026-04-18
+CLI-0484,Elisa Rocha,elisa.rocha484@outlook.com,(98) 95350-9113,MA,22/12/2025,"R$ 311,76",2026-04-16
+CLI-0300,Fabio Santos,fabio.santos300@empresa.com.br,(98) 95909-9603,RJ,11/04/2024,1179.83,2024-05-30
+CLI-0216,Fabio Santos,fabio.santos216@gmail.com,(98) 94829-3892,,25/10/2023,"R$ 241,66",2023-11-28
+CLI-0440,Elisa Rocha,elisa.rocha440empresa.com.br,+55 98931704588,,2024-06-30,"R$ 2.020,45",2024-06-30
+CLI-0296,Elisa Rocha,elisa.rocha296@gmail.com,98922978893,sp,2023-03-25,175.41,2023-04-27
+CLI-0511,Bruno Costa,bruno.costa511@empresa.com.br,98969031902,PA,2023-12-14,437.28,2024-01-06
+CLI-0700,Diego Alves,diego.alves700@empresa.com.br,98958445828,pa,2023-01-25,"R$ 2.374,35",2023-06-23
+CLI-0079,Diego Alves,diego.alves79@empresa.com.br,(98) 97206-4589,,03/09/2024,"R$ 1.380,73",2024-10-17
+CLI-0081,Elisa Rocha,elisa.rocha81@empresa.com.br,(98) 98324-0814,RJ,2024-08-04,370.52,2024-10-27
+CLI-0697,Ana Lima,ana.lima697@outlook.com,98925164232,MA,2024-03-24,2124.82,2024-06-13
+CLI-0328,Carla Souza,carla.souza328@gmail.com,98952349386,PA,2025-05-20,"R$ 938,00",2025-09-03
+CLI-0707,Gabi Melo,gabi.melo707@empresa.com.br,98962736577,pa,2023-06-29,"R$ 1.269,80",2023-07-15
+CLI-0050,Carla Souza,carla.souza50@outlook.com,(98) 92313-5921,Maranhao,2024-05-07,"R$ 1.211,15",2024-06-07
+CLI-0161,Bruno Costa,bruno.costa161@gmail.com,+55 98969606872,pa,26/04/2025,155.29,2025-09-19
+CLI-0086,Diego Alves,diego.alves86@gmail.com,+55 98911634780,rj,22/08/2024,"R$ 147,12",2024-10-30
+CLI-0006,Fabio Santos,fabio.santos6@gmail.com,+55 98982592549,SP,20/04/2025,439.15,2025-08-30
+CLI-0688,Diego Alves,diego.alves688@empresa.com.br,(98) 93483-3528,rj,05/04/2025,"R$ 926,26",2025-05-03
+CLI-0505,Fabio Santos,fabio.santos505@gmail.com,+55 98982208202,RJ,2023-09-13,"R$ 1.822,48",2024-02-22
+CLI-0009,Diego Alves,diego.alves9@empresa.com.br,+55 98961734188,rj,18/06/2024,"R$ 585,55",2024-08-07
+CLI-0002,Fabio Santos,fabio.santos2@empresa.com.br,(98) 97844-9441,SP,04/10/2024,"R$ 2.441,92",2024-11-02
+CLI-0617,  ELISA ROCHA  ,..elisa.rocha..617@outlook.com,98951630269,PA,2025-09-13,"R$ 2.366,81",2026-01-28
+CLI-0232,Gabi Melo,gabi.melo232@gmail.com,+55 98955456301,Maranhao,15/01/2025,1749.33,2025-04-15
+CLI-0178,Elisa Rocha,elisa.rocha178empresa.com.br,(98) 99251-9938,MA,13/12/2025,"R$ 725,66",2026-05-25
+CLI-0707,Carla Souza,carla.souza707@gmail.com,98962193003,RJ,24/09/2025,"R$ 1.642,56",2026-02-14
+CLI-0445,Elisa Rocha,elisa.rocha445@empresa.com.br,98979746501,PA,2023-04-27,"R$ 433,13",2023-10-21
+CLI-0044,Elisa Rocha,elisa.rocha44@outlook.com,,MA,2024-03-31,1307.05,2024-05-25
+CLI-0578,Gabi Melo,gabi.melo578@gmail.com,+55 98985530672,PA,26/06/2025,"R$ 1.643,06",2025-09-19
+CLI-0720,Diego Alves,diego.alves720@gmail.com,+55 98939185204,ma,2025-03-05,2365.15,2025-06-06
+CLI-0494,  GABI MELO  ,..gabi.melo..494@empresa.com.br,98918193831,rj,2024-12-06,"R$ 2.181,72",2025-03-17
+CLI-0688,Gabi Melo,gabi.melo688@empresa.com.br,+55 98948050983,pa,2024-07-17,"R$ 468,12",2024-08-17
+CLI-0329,  GABI MELO  ,..gabi.melo..329@outlook.com,(98) 98787-4373,Maranhao,2024-07-13,"R$ 1.348,83",2024-07-14
+CLI-0422,Diego Alves,diego.alves422@empresa.com.br,(98) 90177-4988,pa,08/10/2024,"R$ 1.911,03",2024-12-29
+CLI-0289,Carla Souza,carla.souza289@gmail.com,+55 98977414109,RJ,2025-12-22,"R$ 1.194,45",2026-05-18
+CLI-0585,Carla Souza,carla.souza585@empresa.com.br,(98) 91258-1586,Maranhao,2023-03-09,2036.46,2023-08-21
+CLI-0487,Diego Alves,diego.alves487@outlook.com,+55 98904534112,MA,2025-12-01,"R$ 713,08",2026-05-17
+CLI-0177,Bruno Costa,bruno.costa177@outlook.com,98973456407,MA,28/05/2023,639.27,2023-10-18
+CLI-0108,Carla Souza,carla.souza108@gmail.com,(98) 97091-3078,pa,2024-01-17,"R$ 142,79",2024-03-21
+CLI-0215,Diego Alves,diego.alves215@gmail.com,(98) 97392-8743,SP,06/05/2025,"R$ 1.883,52",2025-10-05
+CLI-0689,Fabio Santos,fabio.santos689outlook.com,(98) 96000-9457,sp,14/09/2025,"R$ 2.493,62",2025-11-04
+CLI-0170,Ana Lima,ana.lima170@outlook.com,+55 98976480068,rj,2025-03-02,1252.10,2025-06-30
+CLI-0682,  ANA LIMA  ,..ana.lima..682@outlook.com,+55 98932863017,ma,2024-07-08,1350.04,2024-10-15
+CLI-0540,Gabi Melo,gabi.melo540@outlook.com,+55 98902896831,Maranhao,23/11/2025,"R$ 1.712,51",2026-03-31
+CLI-0676,Carla Souza,carla.souza676@gmail.com,(98) 93703-7350,ma,2025-12-14,"R$ 313,28",2026-02-18
+CLI-0228,  FABIO SANTOS  ,..fabio.santos..228@outlook.com,+55 98913547145,RJ,2024-05-19,"R$ 2.298,09",2024-05-19
+CLI-0635,Ana Lima,ana.lima635@gmail.com,98903634160,ma,2024-09-20,"R$ 1.641,77",2025-02-11
+CLI-0257,Bruno Costa,bruno.costa257gmail.com,(98) 96277-6806,RJ,2025-12-16,"R$ 1.975,20",2026-01-28
+CLI-0268,Fabio Santos,fabio.santos268@outlook.com,(98) 93046-3929,PA,18/04/2024,"R$ 1.657,69",2024-05-02
+CLI-0468,Bruno Costa,bruno.costa468@outlook.com,98945481624,pa,2023-09-16,1542.43,2023-12-11
+CLI-0255,Gabi Melo,gabi.melo255@gmail.com,+55 98918098635,PA,13/04/2024,"R$ 2.419,09",2024-08-02
+CLI-0360,Gabi Melo,gabi.melo360@gmail.com,98966923942,SP,2024-06-19,"R$ 796,97",2024-09-06
+CLI-0327,Gabi Melo,gabi.melo327gmail.com,(98) 94850-1619,ma,04/12/2023,"R$ 331,01",2024-01-13
+CLI-0352,Bruno Costa,bruno.costa352gmail.com,98920092845,MA,19/04/2024,1051.89,2024-09-17
+CLI-0526,Bruno Costa,bruno.costa526@outlook.com,+55 98953753471,pa,2025-10-04,767.05,2026-01-21
+CLI-0555,  GABI MELO  ,..gabi.melo..555@gmail.com,(98) 90075-4473,Maranhao,05/11/2024,2200.16,2025-04-16
+CLI-0266,Carla Souza,carla.souza266@empresa.com.br,98957842719,SP,2025-12-18,1576.06,2026-03-01
+CLI-0184,Diego Alves,diego.alves184@outlook.com,98962318793,MA,2025-01-13,"R$ 1.113,54",2025-05-31
+CLI-0679,Fabio Santos,fabio.santos679@empresa.com.br,(98) 94450-4696,MA,29/03/2023,1156.28,2023-09-21
+CLI-0594,Bruno Costa,bruno.costa594outlook.com,(98) 94196-0577,rj,2023-11-29,1384.10,2024-03-14
+CLI-0244,Gabi Melo,gabi.melo244@gmail.com,98958872023,ma,18/05/2023,1733.83,2023-09-24
+CLI-0462,Gabi Melo,gabi.melo462@gmail.com,98973563471,PA,25/12/2023,439.67,2024-04-08
+CLI-0484,Elisa Rocha,elisa.rocha484@empresa.com.br,+55 98956860910,SP,2024-06-09,2144.33,2024-12-02
+CLI-0550,Gabi Melo,gabi.melo550@empresa.com.br,(98) 93097-6477,PA,2025-04-20,"R$ 1.063,78",2025-10-02
+CLI-0081,Gabi Melo,gabi.melo81@gmail.com,+55 98915772938,RJ,2024-02-05,"R$ 429,12",2024-03-08
+CLI-0106,  FABIO SANTOS  ,..fabio.santos..106@gmail.com,(98) 92170-0322,pa,2023-05-02,1364.45,2023-06-18
+CLI-0170,Fabio Santos,fabio.santos170empresa.com.br,+55 98929789539,SP,18/11/2025,"R$ 501,17",2026-01-19
+CLI-0588,Fabio Santos,fabio.santos588@outlook.com,98950414908,,06/09/2024,1368.31,2024-09-19
+CLI-0190,Gabi Melo,gabi.melo190outlook.com,,rj,11/11/2024,"R$ 882,26",2025-02-04
+CLI-0307,Elisa Rocha,elisa.rocha307@gmail.com,(98) 94807-9520,,2023-01-07,"R$ 68,75",2023-06-29
+CLI-0559,Bruno Costa,bruno.costa559@empresa.com.br,(98) 97522-5416,PA,14/07/2023,"R$ 1.750,48",2023-08-01
+CLI-0502,Carla Souza,carla.souza502outlook.com,(98) 95541-8945,RJ,2023-08-07,722.69,2023-08-23
+CLI-0504,  ANA LIMA  ,..ana.lima..504empresa.com.br,98934209787,MA,05/04/2024,"R$ 1.621,11",2024-08-22
+CLI-0075,Diego Alves,diego.alves75@outlook.com,+55 98991344409,SP,22/07/2024,730.15,2024-09-17
+CLI-0291,Bruno Costa,bruno.costa291outlook.com,+55 98922833266,SP,07/07/2023,1525.64,2023-09-15
+CLI-0257,Fabio Santos,fabio.santos257empresa.com.br,,PA,2023-01-05,1457.24,2023-07-01
+CLI-0666,Gabi Melo,gabi.melo666@empresa.com.br,+55 98954125306,MA,2023-10-07,2595.07,2024-03-22
+CLI-0096,Bruno Costa,bruno.costa96@outlook.com,(98) 91226-6247,rj,30/11/2023,"R$ 1.644,96",2024-02-20
+CLI-0064,Diego Alves,diego.alves64@outlook.com,(98) 90130-0109,Maranhao,27/04/2024,1739.99,2024-10-18
+CLI-0202,Carla Souza,carla.souza202@gmail.com,+55 98987163926,,2025-06-27,380.17,2025-07-21
+CLI-0191,Gabi Melo,gabi.melo191@outlook.com,98903869390,pa,2023-03-03,1233.06,2023-04-24
+CLI-0371,Gabi Melo,gabi.melo371@empresa.com.br,(98) 98221-3215,,28/02/2025,"R$ 542,52",2025-03-02
+CLI-0012,Gabi Melo,gabi.melo12@gmail.com,+55 98969377688,ma,01/08/2024,1857.99,2024-08-18
+CLI-0567,Ana Lima,ana.lima567@outlook.com,(98) 96066-2244,Maranhao,25/10/2025,"R$ 1.866,27",2025-11-29
+CLI-0678,  ELISA ROCHA  ,..elisa.rocha..678@empresa.com.br,(98) 97654-2142,,2024-07-20,425.16,2024-08-30
+CLI-0377,Gabi Melo,gabi.melo377empresa.com.br,+55 98912520355,PA,2025-10-22,"R$ 1.505,64",2025-12-01
+CLI-0391,Gabi Melo,gabi.melo391@gmail.com,98997457664,RJ,16/04/2025,"R$ 279,27",2025-06-08
+CLI-0169,Bruno Costa,bruno.costa169@gmail.com,98940360045,sp,03/03/2023,2180.84,2023-04-21
+CLI-0545,Ana Lima,ana.lima545@empresa.com.br,98978519105,MA,2023-02-12,804.07,2023-04-05
+CLI-0503,Gabi Melo,gabi.melo503@gmail.com,,rj,2024-02-20,"R$ 1.642,17",2024-04-15
+CLI-0533,Elisa Rocha,elisa.rocha533@outlook.com,(98) 92081-6866,sp,2024-04-04,"R$ 352,41",2024-05-16
+CLI-0031,  DIEGO ALVES  ,..diego.alves..31@gmail.com,(98) 95429-6358,MA,2025-05-21,407.28,2025-10-20
+CLI-0547,Diego Alves,diego.alves547gmail.com,(98) 95548-1066,rj,2024-04-06,"R$ 189,23",2024-09-08
+CLI-0350,Ana Lima,ana.lima350@outlook.com,98982642561,SP,02/01/2023,"R$ 727,74",2023-04-04
+CLI-0593,Carla Souza,carla.souza593@gmail.com,+55 98999488514,rj,2025-07-13,"R$ 803,57",2025-11-25
+CLI-0267,Fabio Santos,fabio.santos267@outlook.com,98923586302,sp,21/03/2023,"R$ 592,26",2023-07-08
+CLI-0300,Diego Alves,diego.alves300@empresa.com.br,+55 98906901783,RJ,21/04/2024,911.30,2024-10-08
+CLI-0616,Gabi Melo,gabi.melo616@outlook.com,(98) 99510-5926,rj,03/04/2025,"R$ 1.392,25",2025-07-04
+CLI-0525,Bruno Costa,bruno.costa525@empresa.com.br,+55 98965144337,MA,07/12/2025,408.93,2026-04-15
+CLI-0484,Fabio Santos,fabio.santos484@outlook.com,+55 98969139165,Maranhao,30/08/2025,728.66,2026-01-17
+CLI-0378,  ELISA ROCHA  ,..elisa.rocha..378@empresa.com.br,98976039354,Maranhao,2023-08-12,"R$ 617,57",2024-01-13
+CLI-0690,Bruno Costa,bruno.costa690@outlook.com,98964987740,rj,18/04/2024,849.82,2024-09-07
+CLI-0675,  ELISA ROCHA  ,..elisa.rocha..675@gmail.com,+55 98908314661,pa,29/04/2023,"R$ 670,85",2023-09-23
+CLI-0057,Elisa Rocha,elisa.rocha57@gmail.com,98977497621,RJ,04/12/2025,"R$ 1.122,08",2026-01-29
+CLI-0412,Bruno Costa,bruno.costa412@gmail.com,(98) 95317-8567,PA,21/04/2025,"R$ 1.144,50",2025-05-27
+CLI-0243,Fabio Santos,fabio.santos243@outlook.com,+55 98904594113,Maranhao,2023-02-11,"R$ 1.857,00",2023-03-15
+CLI-0090,Carla Souza,carla.souza90@gmail.com,98983082621,,2023-01-08,"R$ 312,19",2023-05-06
+CLI-0380,Diego Alves,diego.alves380@outlook.com,98990261739,PA,2023-05-05,"R$ 2.427,85",2023-08-01
+CLI-0053,Diego Alves,diego.alves53@empresa.com.br,,sp,2025-03-29,"R$ 300,74",2025-05-09
+CLI-0642,Elisa Rocha,elisa.rocha642@empresa.com.br,(98) 95301-5179,sp,2025-01-20,1407.21,2025-07-08
+CLI-0040,Ana Lima,ana.lima40@outlook.com,+55 98963578025,ma,19/08/2024,"R$ 1.189,89",2025-01-31
+CLI-0286,Ana Lima,ana.lima286@gmail.com,+55 98908083425,MA,2024-01-03,80.91,2024-03-07
+CLI-0148,  DIEGO ALVES  ,..diego.alves..148@empresa.com.br,+55 98981373507,ma,16/05/2025,"R$ 2.300,20",2025-10-09
+CLI-0658,Diego Alves,diego.alves658@empresa.com.br,(98) 99833-0756,PA,14/12/2025,"R$ 753,81",2026-04-09
+CLI-0164,Ana Lima,ana.lima164@gmail.com,98917479463,sp,25/07/2024,1240.34,2024-09-14
+CLI-0558,Bruno Costa,bruno.costa558@outlook.com,+55 98935241480,pa,18/12/2024,1225.20,2025-03-14
+CLI-0076,Diego Alves,diego.alves76@empresa.com.br,(98) 90651-1891,MA,12/06/2023,2321.02,2023-10-18
+CLI-0222,Bruno Costa,bruno.costa222@outlook.com,(98) 95756-3265,rj,2024-08-03,2468.96,2024-10-18
+CLI-0528,Bruno Costa,bruno.costa528empresa.com.br,(98) 96978-8202,rj,14/02/2025,"R$ 409,37",2025-04-19
+CLI-0256,Elisa Rocha,elisa.rocha256@outlook.com,(98) 91359-8832,SP,24/03/2025,474.30,2025-07-02
+CLI-0395,  ANA LIMA  ,..ana.lima..395@empresa.com.br,,ma,2024-10-18,145.39,2024-12-14
+CLI-0618,  GABI MELO  ,..gabi.melo..618@outlook.com,98922059493,ma,02/10/2023,"R$ 53,86",2024-01-24
+CLI-0112,Diego Alves,diego.alves112outlook.com,,PA,05/12/2023,1848.02,2024-05-29
+CLI-0581,  FABIO SANTOS  ,..fabio.santos..581empresa.com.br,(98) 91777-1884,ma,29/11/2024,"R$ 2.219,87",2025-02-28
+CLI-0330,Diego Alves,diego.alves330@gmail.com,+55 98922817227,,05/01/2025,286.52,2025-05-19
+CLI-0020,Fabio Santos,fabio.santos20@empresa.com.br,(98) 94953-2174,PA,10/04/2024,2568.71,2024-07-16
+CLI-0702,Elisa Rocha,elisa.rocha702@outlook.com,98999713019,MA,2024-12-17,608.30,2025-02-04
+CLI-0238,Ana Lima,ana.lima238@gmail.com,+55 98925405731,Maranhao,2024-07-04,"R$ 2.235,59",2024-11-15
+CLI-0239,Elisa Rocha,elisa.rocha239@empresa.com.br,+55 98963669581,MA,2024-12-13,"R$ 2.554,26",2025-04-08
+CLI-0475,Diego Alves,diego.alves475@gmail.com,+55 98900232300,pa,2023-04-22,558.03,2023-09-26
+CLI-0028,  FABIO SANTOS  ,..fabio.santos..28@empresa.com.br,(98) 95736-4342,,2024-10-25,955.05,2025-02-22
+CLI-0592,Bruno Costa,bruno.costa592@outlook.com,(98) 95042-8601,rj,2024-02-03,"R$ 1.403,29",2024-07-06
+CLI-0218,Ana Lima,ana.lima218@empresa.com.br,98952310348,SP,2024-03-23,1051.85,2024-09-02
+CLI-0601,Carla Souza,carla.souza601@outlook.com,(98) 93631-0013,Maranhao,2023-03-03,"R$ 673,22",2023-06-14
+CLI-0432,Ana Lima,ana.lima432@outlook.com,+55 98923514155,pa,2023-07-31,1474.07,2023-09-24
+CLI-0474,Fabio Santos,fabio.santos474@empresa.com.br,(98) 92773-6700,ma,31/01/2023,"R$ 1.973,24",2023-05-01
+CLI-0573,  ELISA ROCHA  ,..elisa.rocha..573outlook.com,+55 98930948370,RJ,2025-02-12,2494.91,2025-02-17
+CLI-0055,Fabio Santos,fabio.santos55@outlook.com,+55 98982790736,sp,15/03/2023,1715.01,2023-04-03
+CLI-0133,Gabi Melo,gabi.melo133@empresa.com.br,(98) 96436-4966,Maranhao,23/01/2025,"R$ 1.921,90",2025-02-06
+CLI-0693,  FABIO SANTOS  ,..fabio.santos..693@empresa.com.br,(98) 96649-4618,ma,2024-07-04,1336.99,2024-10-16
+CLI-0072,Diego Alves,diego.alves72@gmail.com,(98) 90366-3611,RJ,22/08/2023,"R$ 563,49",2023-11-21
+CLI-0395,Diego Alves,diego.alves395@gmail.com,(98) 92103-4339,PA,28/10/2023,695.39,2024-02-14
+CLI-0525,Gabi Melo,gabi.melo525@gmail.com,98998691802,PA,2024-03-15,189.10,2024-03-31
+CLI-0417,Diego Alves,diego.alves417@empresa.com.br,98908833813,MA,2023-02-07,2171.96,2023-03-11
+CLI-0283,  ELISA ROCHA  ,..elisa.rocha..283@outlook.com,(98) 94392-6139,PA,2023-08-30,"R$ 2.477,99",2023-11-28
+CLI-0598,Carla Souza,carla.souza598@empresa.com.br,+55 98911491604,sp,2024-04-15,949.90,2024-08-02
+CLI-0239,  FABIO SANTOS  ,..fabio.santos..239@outlook.com,(98) 96119-0013,PA,05/03/2024,"R$ 1.102,48",2024-06-01
+CLI-0136,Gabi Melo,gabi.melo136@outlook.com,98941376602,rj,28/04/2023,542.76,2023-05-29
+CLI-0041,Gabi Melo,gabi.melo41@outlook.com,98967506136,RJ,2025-05-16,"R$ 1.176,57",2025-09-30
+CLI-0545,  ANA LIMA  ,..ana.lima..545@gmail.com,98946673188,PA,23/07/2025,"R$ 1.183,70",2025-10-23
+CLI-0105,Fabio Santos,fabio.santos105@gmail.com,+55 98979120483,MA,10/01/2023,243.17,2023-05-05
+CLI-0183,Elisa Rocha,elisa.rocha183outlook.com,(98) 97860-7319,,28/05/2025,"R$ 1.197,47",2025-07-07
+CLI-0643,  GABI MELO  ,..gabi.melo..643@outlook.com,+55 98930496737,Maranhao,2023-11-25,1119.58,2024-01-21
+CLI-0511,Bruno Costa,bruno.costa511@outlook.com,(98) 94371-3947,ma,2025-03-17,"R$ 1.351,23",2025-04-02
+CLI-0580,Gabi Melo,gabi.melo580@empresa.com.br,+55 98902576316,pa,30/06/2024,1874.29,2024-07-05
+CLI-0235,Carla Souza,carla.souza235@gmail.com,+55 98993905032,ma,13/07/2024,"R$ 2.010,97",2024-07-16
+CLI-0548,Carla Souza,carla.souza548@gmail.com,+55 98951383294,SP,15/03/2024,"R$ 1.732,68",2024-06-30
+CLI-0326,Ana Lima,ana.lima326@outlook.com,,Maranhao,02/04/2025,2325.43,2025-04-06
+CLI-0188,  BRUNO COSTA  ,..bruno.costa..188@gmail.com,+55 98998947739,rj,14/02/2024,958.41,2024-02-18
+CLI-0195,  ELISA ROCHA  ,..elisa.rocha..195@gmail.com,(98) 95732-6612,Maranhao,10/10/2023,2406.13,2024-03-29
+CLI-0537,Carla Souza,carla.souza537@empresa.com.br,+55 98956169129,ma,2025-08-12,46.07,2026-02-02
+CLI-0679,Fabio Santos,fabio.santos679@gmail.com,(98) 94109-6564,,06/10/2025,1626.64,2025-11-04
+CLI-0533,Elisa Rocha,elisa.rocha533@empresa.com.br,,SP,18/08/2025,1452.33,2025-11-03
+CLI-0488,Carla Souza,carla.souza488@outlook.com,98965835718,Maranhao,01/02/2024,2352.12,2024-02-14
+CLI-0699,  DIEGO ALVES  ,..diego.alves..699@outlook.com,(98) 99728-6205,pa,26/04/2023,322.88,2023-07-20
+CLI-0523,Diego Alves,diego.alves523empresa.com.br,+55 98912147791,Maranhao,23/08/2025,"R$ 1.105,54",2025-12-26
+CLI-0081,Bruno Costa,bruno.costa81@outlook.com,(98) 99996-4187,RJ,2023-06-29,1059.01,2023-10-01
+CLI-0191,Ana Lima,ana.lima191empresa.com.br,(98) 90743-2403,SP,2023-03-21,1433.62,2023-05-02
+CLI-0010,Carla Souza,carla.souza10@empresa.com.br,+55 98904541218,rj,2023-06-28,1969.35,2023-10-06
+CLI-0711,Carla Souza,carla.souza711@gmail.com,98943007644,SP,19/06/2023,"R$ 543,03",2023-07-01
+CLI-0181,Elisa Rocha,elisa.rocha181@gmail.com,+55 98902487118,PA,2024-04-01,1613.58,2024-07-24
+CLI-0008,Ana Lima,ana.lima8@empresa.com.br,98916903093,ma,2023-06-11,"R$ 1.207,86",2023-10-19
+CLI-0683,Bruno Costa,bruno.costa683@gmail.com,+55 98901607282,PA,2025-05-28,1230.44,2025-07-02
+CLI-0518,  DIEGO ALVES  ,..diego.alves..518@gmail.com,98929598192,RJ,2023-10-11,"R$ 2.398,98",2023-11-21
+CLI-0170,Bruno Costa,bruno.costa170@outlook.com,(98) 97088-1058,pa,15/01/2024,625.51,2024-04-09
+CLI-0478,Gabi Melo,gabi.melo478empresa.com.br,,sp,29/04/2023,1589.89,2023-06-05
+CLI-0154,Elisa Rocha,elisa.rocha154@empresa.com.br,+55 98979790459,sp,2023-02-06,2053.72,2023-06-21
+CLI-0444,Elisa Rocha,elisa.rocha444@gmail.com,(98) 94018-3920,Maranhao,2024-09-01,"R$ 983,87",2024-12-20
+CLI-0035,  ANA LIMA  ,..ana.lima..35@gmail.com,+55 98940482470,sp,22/11/2025,"R$ 1.759,44",2026-01-23
+CLI-0254,Elisa Rocha,elisa.rocha254@outlook.com,(98) 98570-5457,Maranhao,2023-05-04,"R$ 1.024,18",2023-05-13
+CLI-0275,  GABI MELO  ,..gabi.melo..275@gmail.com,(98) 98689-7369,,2025-07-06,446.27,2025-09-27
+CLI-0233,Elisa Rocha,elisa.rocha233@outlook.com,+55 98919407334,,24/01/2023,1840.18,2023-04-20
+CLI-0372,Ana Lima,ana.lima372@gmail.com,98979431834,pa,05/08/2025,"R$ 187,54",2025-10-08
+CLI-0064,  BRUNO COSTA  ,..bruno.costa..64@gmail.com,+55 98945476619,Maranhao,16/11/2024,"R$ 1.048,82",2025-04-27
+CLI-0601,Bruno Costa,bruno.costa601@gmail.com,98987262915,,28/05/2024,182.07,2024-08-04
+CLI-0698,  BRUNO COSTA  ,..bruno.costa..698@gmail.com,(98) 91786-6665,PA,05/12/2023,1639.03,2024-05-18
+CLI-0053,Ana Lima,ana.lima53@outlook.com,+55 98938199178,MA,2025-05-12,"R$ 2.059,81",2025-06-03
+CLI-0572,Fabio Santos,fabio.santos572@empresa.com.br,98904782844,RJ,20/09/2023,"R$ 1.096,02",2024-03-11
+CLI-0633,Carla Souza,carla.souza633@gmail.com,98990862831,RJ,2023-06-19,1828.98,2023-10-20
+CLI-0127,  FABIO SANTOS  ,..fabio.santos..127@outlook.com,(98) 95659-4460,sp,24/12/2024,2177.73,2025-05-14
+CLI-0537,Fabio Santos,fabio.santos537@gmail.com,(98) 97617-1111,ma,2023-04-04,"R$ 1.835,81",2023-05-05
+CLI-0068,Ana Lima,ana.lima68@empresa.com.br,98992538122,ma,2023-08-23,"R$ 1.511,39",2023-12-13
+CLI-0154,Carla Souza,carla.souza154@outlook.com,98918553049,rj,21/07/2025,362.43,2025-10-12
+CLI-0271,  GABI MELO  ,..gabi.melo..271@gmail.com,(98) 97298-0778,SP,2023-10-26,"R$ 891,62",2024-02-08
+CLI-0120,Ana Lima,ana.lima120@gmail.com,(98) 92651-3865,SP,09/04/2023,"R$ 2.250,93",2023-04-11
+CLI-0458,Carla Souza,carla.souza458@outlook.com,98992834710,MA,2024-01-30,"R$ 660,08",2024-02-22
+CLI-0407,Elisa Rocha,elisa.rocha407@gmail.com,+55 98932118574,Maranhao,11/04/2024,"R$ 77,29",2024-07-09
+CLI-0652,  DIEGO ALVES  ,..diego.alves..652@gmail.com,,pa,16/01/2025,1599.09,2025-06-02
+CLI-0383,Bruno Costa,bruno.costa383@outlook.com,+55 98925564044,MA,20/06/2024,"R$ 148,13",2024-10-09
+CLI-0050,Ana Lima,ana.lima50@empresa.com.br,98911454486,ma,2025-06-14,"R$ 402,09",2025-11-08
+CLI-0635,Gabi Melo,gabi.melo635@empresa.com.br,(98) 93318-9498,pa,2023-09-09,"R$ 2.521,48",2023-12-14
+CLI-0269,Fabio Santos,fabio.santos269@gmail.com,(98) 91367-5710,PA,11/06/2024,"R$ 140,47",2024-08-30
+CLI-0421,Bruno Costa,bruno.costa421@gmail.com,98951749156,MA,05/02/2025,"R$ 502,04",2025-05-24
+CLI-0148,Carla Souza,carla.souza148@outlook.com,(98) 99954-2668,ma,2025-02-25,"R$ 1.726,91",2025-04-16
+CLI-0337,Bruno Costa,bruno.costa337outlook.com,98921065087,ma,2023-03-18,180.61,2023-07-04
+CLI-0502,Gabi Melo,gabi.melo502@empresa.com.br,(98) 94370-0833,pa,16/11/2023,2233.62,2024-04-13
+CLI-0516,Carla Souza,carla.souza516gmail.com,98903446083,RJ,28/09/2023,"R$ 722,00",2023-12-27
+CLI-0567,Fabio Santos,fabio.santos567@outlook.com,(98) 99330-9068,pa,18/06/2023,1261.32,2023-08-06
+CLI-0694,  ANA LIMA  ,..ana.lima..694empresa.com.br,+55 98914470457,sp,2025-02-05,1518.58,2025-05-08
+CLI-0615,Fabio Santos,fabio.santos615@gmail.com,98960569409,pa,2024-03-26,855.34,2024-05-19
+CLI-0417,Carla Souza,carla.souza417@gmail.com,+55 98970112379,SP,2024-03-27,"R$ 1.477,11",2024-09-15
+CLI-0200,Fabio Santos,fabio.santos200@gmail.com,+55 98930416514,sp,2024-10-13,"R$ 2.559,39",2025-03-29
+CLI-0715,Diego Alves,diego.alves715@empresa.com.br,(98) 96813-0557,SP,2024-06-26,780.16,2024-11-21
+CLI-0467,  GABI MELO  ,..gabi.melo..467@gmail.com,+55 98981713985,rj,16/07/2023,535.83,2023-08-21
+CLI-0024,Bruno Costa,bruno.costa24@empresa.com.br,98985450873,SP,07/08/2023,1093.50,2023-12-01
+CLI-0045,  GABI MELO  ,..gabi.melo..45@empresa.com.br,(98) 98624-0656,MA,24/03/2024,1498.31,2024-05-06
+CLI-0208,Bruno Costa,bruno.costa208@empresa.com.br,(98) 96126-1606,ma,2024-06-26,1409.01,2024-09-09
+CLI-0530,Diego Alves,diego.alves530@outlook.com,(98) 96891-5366,rj,2024-07-13,336.80,2025-01-06
+CLI-0106,Elisa Rocha,elisa.rocha106@outlook.com,98975299243,sp,2024-11-12,2278.30,2025-03-01
+CLI-0485,  DIEGO ALVES  ,..diego.alves..485@empresa.com.br,+55 98929043412,RJ,25/11/2023,"R$ 1.828,22",2024-01-12
+CLI-0404,Fabio Santos,fabio.santos404@empresa.com.br,98933414504,SP,2023-12-29,"R$ 2.132,52",2024-02-28
+CLI-0579,Gabi Melo,gabi.melo579@empresa.com.br,(98) 93443-3687,PA,2024-05-02,1336.24,2024-07-31
+CLI-0426,Fabio Santos,fabio.santos426@outlook.com,98909248956,rj,2024-09-08,"R$ 2.391,95",2024-12-14
+CLI-0383,  ANA LIMA  ,..ana.lima..383@gmail.com,(98) 98618-1165,Maranhao,2025-11-28,"R$ 49,19",2026-01-05
+CLI-0086,  DIEGO ALVES  ,..diego.alves..86@gmail.com,98945051598,PA,29/07/2024,"R$ 974,57",2024-08-18
+CLI-0181,  GABI MELO  ,..gabi.melo..181@gmail.com,,RJ,2023-06-02,1383.36,2023-09-11
+CLI-0012,  ELISA ROCHA  ,..elisa.rocha..12@empresa.com.br,+55 98940048100,PA,30/12/2024,460.79,2025-03-16
+CLI-0687,  ELISA ROCHA  ,..elisa.rocha..687@outlook.com,98940924696,rj,2025-10-31,"R$ 839,24",2025-11-14
+CLI-0603,Gabi Melo,gabi.melo603outlook.com,98919681051,MA,08/10/2023,"R$ 2.518,26",2024-02-02
+CLI-0224,  ANA LIMA  ,..ana.lima..224@outlook.com,(98) 90804-7656,pa,01/01/2024,2090.19,2024-02-09
+CLI-0001,Fabio Santos,fabio.santos1@outlook.com,98938000770,sp,2025-07-27,"R$ 1.065,67",2025-08-02
+CLI-0015,Gabi Melo,gabi.melo15outlook.com,(98) 99728-6642,SP,09/03/2023,1939.02,2023-03-27
+CLI-0348,Carla Souza,carla.souza348@empresa.com.br,+55 98967192084,ma,2025-12-08,"R$ 1.028,57",2026-02-12
+CLI-0062,Gabi Melo,gabi.melo62@empresa.com.br,98920100714,,2025-06-24,"R$ 1.464,54",2025-07-01
+CLI-0008,  GABI MELO  ,..gabi.melo..8@empresa.com.br,(98) 94185-4366,RJ,2024-10-07,874.97,2024-12-23
+CLI-0140,Carla Souza,carla.souza140@empresa.com.br,(98) 92203-9272,PA,2023-12-19,1305.10,2024-05-30
+CLI-0098,Carla Souza,carla.souza98@gmail.com,+55 98996553659,sp,17/04/2023,1591.59,2023-05-22
+CLI-0344,Bruno Costa,bruno.costa344@empresa.com.br,98974557991,ma,18/02/2023,"R$ 1.311,00",2023-05-05
+CLI-0064,Diego Alves,diego.alves64@gmail.com,+55 98930523682,pa,06/04/2024,"R$ 917,40",2024-04-19
+CLI-0261,  ELISA ROCHA  ,..elisa.rocha..261@outlook.com,(98) 90706-2082,pa,2024-01-24,"R$ 173,18",2024-03-14
+CLI-0698,Bruno Costa,bruno.costa698@gmail.com,+55 98924118658,Maranhao,20/09/2025,"R$ 1.516,31",2026-01-10
+CLI-0052,Elisa Rocha,elisa.rocha52@outlook.com,98941384215,ma,2025-01-15,"R$ 1.997,49",2025-06-11
+CLI-0596,Gabi Melo,gabi.melo596@outlook.com,98937828717,SP,2023-12-22,1532.58,2024-01-23
+CLI-0526,Gabi Melo,gabi.melo526@outlook.com,98994818280,pa,2024-06-14,"R$ 1.594,23",2024-11-10
+CLI-0573,Fabio Santos,fabio.santos573@gmail.com,(98) 90532-7222,rj,2024-08-02,"R$ 274,84",2024-10-22
+CLI-0611,  CARLA SOUZA  ,..carla.souza..611@empresa.com.br,(98) 94911-7542,rj,15/04/2023,"R$ 2.187,16",2023-07-31
+CLI-0396,Elisa Rocha,elisa.rocha396@empresa.com.br,98941988092,MA,28/04/2025,540.98,2025-07-29
+CLI-0621,Carla Souza,carla.souza621@empresa.com.br,(98) 97080-1085,PA,2024-12-14,2289.38,2025-04-20
+CLI-0719,Diego Alves,diego.alves719@gmail.com,(98) 92482-0496,,2023-08-04,"R$ 1.393,56",2023-09-11
+CLI-0671,Carla Souza,carla.souza671@empresa.com.br,,MA,2025-12-28,"R$ 229,55",2026-04-09
+CLI-0418,  BRUNO COSTA  ,..bruno.costa..418empresa.com.br,(98) 91019-8017,RJ,16/06/2025,"R$ 388,18",2025-09-22
+CLI-0321,Carla Souza,carla.souza321@outlook.com,(98) 99811-6192,rj,21/08/2025,1492.84,2025-12-10
+CLI-0510,  CARLA SOUZA  ,..carla.souza..510@empresa.com.br,98971608724,ma,2023-11-28,"R$ 1.871,92",2023-12-09
+CLI-0296,Elisa Rocha,elisa.rocha296@empresa.com.br,+55 98969321350,rj,02/01/2025,"R$ 2.352,62",2025-02-19
+CLI-0352,Elisa Rocha,elisa.rocha352@gmail.com,98946818782,rj,10/03/2024,1170.78,2024-04-25
+CLI-0447,Gabi Melo,gabi.melo447@gmail.com,98985927886,MA,2023-09-28,2374.63,2024-03-05
+CLI-0246,  DIEGO ALVES  ,..diego.alves..246@empresa.com.br,(98) 97219-0599,MA,2024-05-14,1066.40,2024-09-17
+CLI-0441,Bruno Costa,bruno.costa441@empresa.com.br,98991518356,MA,03/06/2023,"R$ 2.004,76",2023-11-15
+CLI-0151,  FABIO SANTOS  ,..fabio.santos..151@gmail.com,(98) 98179-7215,rj,2024-02-21,"R$ 843,09",2024-08-01
+CLI-0412,Bruno Costa,bruno.costa412@empresa.com.br,(98) 92857-2085,,2023-05-17,"R$ 1.581,42",2023-08-18
+CLI-0158,Elisa Rocha,elisa.rocha158@empresa.com.br,+55 98936753047,sp,2023-04-11,419.27,2023-04-25
+CLI-0438,Elisa Rocha,elisa.rocha438@outlook.com,98965237896,Maranhao,29/10/2024,"R$ 1.289,56",2025-03-14
+CLI-0003,  FABIO SANTOS  ,..fabio.santos..3@gmail.com,98990876796,pa,2024-07-05,1332.82,2024-07-13
+CLI-0241,Fabio Santos,fabio.santos241@gmail.com,(98) 94590-4508,pa,2025-03-23,"R$ 1.610,88",2025-04-01
+CLI-0164,  ANA LIMA  ,..ana.lima..164@outlook.com,+55 98963648349,MA,28/01/2025,1072.31,2025-02-02
+CLI-0644,Bruno Costa,bruno.costa644@gmail.com,+55 98931938786,MA,2023-01-12,55.12,2023-02-25
+CLI-0489,Fabio Santos,fabio.santos489@gmail.com,(98) 96238-3974,,27/03/2024,1791.25,2024-07-24
+CLI-0660,Diego Alves,diego.alves660@empresa.com.br,98968510652,pa,2025-04-21,150.23,2025-05-02
+CLI-0436,Elisa Rocha,elisa.rocha436@empresa.com.br,+55 98971870626,rj,07/04/2025,1861.19,2025-09-18
+CLI-0468,Elisa Rocha,elisa.rocha468@outlook.com,,RJ,28/01/2023,747.08,2023-05-04
+CLI-0440,Gabi Melo,gabi.melo440@gmail.com,(98) 97223-6967,PA,2023-07-30,328.71,2023-11-09
+CLI-0474,Bruno Costa,bruno.costa474outlook.com,98977957196,RJ,2024-12-09,"R$ 1.515,52",2025-01-12
+CLI-0208,Fabio Santos,fabio.santos208@empresa.com.br,(98) 97305-0870,sp,04/12/2023,"R$ 2.390,26",2024-05-19
+CLI-0538,Ana Lima,ana.lima538@gmail.com,+55 98971462955,RJ,12/05/2025,2227.06,2025-06-09
+CLI-0627,Carla Souza,carla.souza627@empresa.com.br,,ma,02/12/2023,"R$ 695,23",2023-12-22
+CLI-0597,Carla Souza,carla.souza597outlook.com,(98) 90512-0358,pa,16/06/2023,"R$ 153,94",2023-10-28
+CLI-0066,Ana Lima,ana.lima66@empresa.com.br,+55 98903862525,PA,09/02/2023,235.78,2023-05-27
+CLI-0575,Gabi Melo,gabi.melo575@empresa.com.br,+55 98954854213,ma,2025-02-04,359.01,2025-03-31
+CLI-0011,  ANA LIMA  ,..ana.lima..11@outlook.com,98900720423,rj,27/07/2025,881.18,2025-07-28
+CLI-0698,Bruno Costa,bruno.costa698@outlook.com,+55 98945900113,pa,10/12/2023,"R$ 507,71",2023-12-28
+CLI-0549,Ana Lima,ana.lima549@outlook.com,98925090633,ma,2024-08-14,"R$ 1.847,86",2024-09-29
+CLI-0682,Fabio Santos,fabio.santos682@gmail.com,+55 98940797784,pa,2024-11-05,"R$ 1.608,64",2025-02-08
+CLI-0706,Gabi Melo,gabi.melo706@gmail.com,98912093206,rj,01/01/2024,"R$ 2.546,00",2024-05-05
+CLI-0193,  ELISA ROCHA  ,..elisa.rocha..193@gmail.com,98932777223,ma,2023-10-07,2158.92,2024-02-01
+CLI-0286,  ELISA ROCHA  ,..elisa.rocha..286@empresa.com.br,(98) 95314-8119,,27/05/2023,564.61,2023-07-10
+CLI-0622,Elisa Rocha,elisa.rocha622@empresa.com.br,(98) 90035-8706,Maranhao,01/05/2024,202.45,2024-06-02
+CLI-0099,  ELISA ROCHA  ,..elisa.rocha..99@empresa.com.br,98969599239,Maranhao,2023-07-04,1419.97,2023-08-27
+CLI-0700,Elisa Rocha,elisa.rocha700@outlook.com,(98) 93675-6462,rj,2025-03-17,"R$ 357,83",2025-08-09
+CLI-0172,Fabio Santos,fabio.santos172empresa.com.br,98937029566,pa,28/05/2023,"R$ 531,95",2023-07-18
+CLI-0333,Fabio Santos,fabio.santos333@gmail.com,+55 98949247667,pa,19/08/2023,"R$ 649,60",2023-10-26
+CLI-0072,Ana Lima,ana.lima72@outlook.com,(98) 92731-9870,rj,20/01/2024,554.85,2024-06-19
+CLI-0329,  ELISA ROCHA  ,..elisa.rocha..329@empresa.com.br,,rj,2023-05-08,1501.21,2023-09-23
+CLI-0315,  ANA LIMA  ,..ana.lima..315@empresa.com.br,+55 98902349295,pa,2024-12-30,"R$ 363,01",2025-01-04
+CLI-0679,Carla Souza,carla.souza679empresa.com.br,+55 98997525003,RJ,14/08/2023,"R$ 1.987,00",2023-10-17
+CLI-0400,  ANA LIMA  ,..ana.lima..400@outlook.com,+55 98927852496,rj,28/10/2024,"R$ 2.005,99",2024-12-01
+CLI-0491,Carla Souza,carla.souza491@outlook.com,+55 98905983635,rj,19/04/2025,"R$ 2.277,77",2025-08-08
+CLI-0021,Bruno Costa,bruno.costa21@outlook.com,,pa,17/11/2024,"R$ 1.965,65",2025-04-01
+CLI-0433,Fabio Santos,fabio.santos433@gmail.com,+55 98934212936,,30/07/2025,"R$ 916,75",2026-01-01
+CLI-0295,Diego Alves,diego.alves295@outlook.com,+55 98907424698,rj,05/08/2025,2486.40,2025-12-21
+CLI-0108,Diego Alves,diego.alves108@outlook.com,(98) 90673-1075,rj,28/02/2023,"R$ 1.504,79",2023-07-16
+CLI-0111,Elisa Rocha,elisa.rocha111@empresa.com.br,+55 98975520170,,2023-04-19,"R$ 775,84",2023-05-18
+CLI-0709,Gabi Melo,gabi.melo709@gmail.com,+55 98914893224,PA,2025-10-04,2336.16,2025-10-30
+CLI-0556,  FABIO SANTOS  ,..fabio.santos..556@gmail.com,+55 98989858491,pa,2024-08-25,"R$ 625,57",2025-01-16
+CLI-0418,Diego Alves,diego.alves418@outlook.com,98929359980,MA,2024-05-26,1631.36,2024-08-10
+CLI-0224,Gabi Melo,gabi.melo224@outlook.com,(98) 98560-1757,RJ,13/09/2023,"R$ 2.390,17",2023-09-16
+CLI-0326,Elisa Rocha,elisa.rocha326@empresa.com.br,(98) 96416-9759,Maranhao,2023-08-11,2220.83,2023-10-06
+CLI-0706,  DIEGO ALVES  ,..diego.alves..706@empresa.com.br,+55 98915308330,rj,28/09/2024,1087.20,2025-02-28
+CLI-0242,Ana Lima,ana.lima242@empresa.com.br,98914596590,MA,2024-05-28,"R$ 2.320,88",2024-10-14
+CLI-0613,Fabio Santos,fabio.santos613@gmail.com,+55 98912137912,ma,16/02/2023,639.56,2023-02-19
+CLI-0680,Gabi Melo,gabi.melo680@outlook.com,,Maranhao,2024-11-14,"R$ 2.577,02",2024-12-11
+CLI-0280,Carla Souza,carla.souza280@outlook.com,98958354392,PA,30/12/2024,"R$ 1.931,73",2025-06-01
+CLI-0275,Carla Souza,carla.souza275@outlook.com,(98) 97689-8273,SP,2025-11-24,1509.61,2026-02-24
+CLI-0666,Elisa Rocha,elisa.rocha666@outlook.com,(98) 95424-8767,MA,02/05/2024,"R$ 1.135,12",2024-10-16
+CLI-0212,Elisa Rocha,elisa.rocha212@gmail.com,98909283794,pa,2023-10-27,"R$ 613,86",2023-12-25
+CLI-0108,Fabio Santos,fabio.santos108@gmail.com,98948461826,PA,2025-10-03,"R$ 290,47",2026-02-01
+CLI-0543,  GABI MELO  ,..gabi.melo..543@outlook.com,98925922429,pa,2023-10-06,"R$ 236,48",2024-01-05
+CLI-0389,Diego Alves,diego.alves389@gmail.com,,pa,28/01/2024,2071.30,2024-05-19
+CLI-0027,Carla Souza,carla.souza27@empresa.com.br,(98) 92275-2164,sp,2024-05-10,2537.01,2024-09-11
+CLI-0279,Ana Lima,ana.lima279@empresa.com.br,98950428928,rj,29/06/2023,"R$ 2.048,59",2023-11-08
+CLI-0687,Gabi Melo,gabi.melo687@outlook.com,(98) 96803-1067,pa,20/03/2023,986.12,2023-08-15
+CLI-0642,  FABIO SANTOS  ,..fabio.santos..642@outlook.com,+55 98962173322,Maranhao,20/08/2024,75.52,2024-10-20
+CLI-0470,Fabio Santos,fabio.santos470@outlook.com,+55 98945729374,,2024-10-04,"R$ 1.065,25",2025-01-16
+CLI-0713,Fabio Santos,fabio.santos713@gmail.com,+55 98987447873,Maranhao,22/11/2025,"R$ 2.050,61",2026-02-13
+CLI-0372,Bruno Costa,bruno.costa372@outlook.com,98930029094,ma,2023-01-11,"R$ 2.542,28",2023-01-14
+CLI-0616,Ana Lima,ana.lima616@outlook.com,98981658273,MA,23/08/2023,"R$ 1.560,22",2023-12-22
+CLI-0468,Ana Lima,ana.lima468@outlook.com,+55 98982912505,Maranhao,2024-03-07,"R$ 1.506,66",2024-08-26
+CLI-0065,Carla Souza,carla.souza65@empresa.com.br,(98) 94323-8424,rj,04/07/2023,"R$ 2.278,40",2023-09-28
+CLI-0261,Fabio Santos,fabio.santos261@empresa.com.br,+55 98950824063,rj,2023-08-30,2431.15,2023-10-03
+CLI-0717,Fabio Santos,fabio.santos717@empresa.com.br,(98) 94600-0608,ma,19/06/2025,"R$ 2.199,36",2025-07-15
+CLI-0324,Ana Lima,ana.lima324gmail.com,98920873500,sp,2025-06-25,"R$ 1.472,25",2025-12-18
+CLI-0067,  GABI MELO  ,..gabi.melo..67@outlook.com,+55 98957016619,SP,01/01/2024,"R$ 329,23",2024-04-20
+CLI-0627,Ana Lima,ana.lima627@outlook.com,+55 98976801209,rj,01/03/2025,"R$ 532,77",2025-03-01
+CLI-0521,Elisa Rocha,elisa.rocha521@gmail.com,+55 98962115537,ma,2023-03-22,"R$ 2.035,99",2023-06-11
+CLI-0120,Carla Souza,carla.souza120@outlook.com,+55 98925917947,RJ,23/05/2023,"R$ 86,38",2023-07-03
+CLI-0145,Elisa Rocha,elisa.rocha145@empresa.com.br,98915381534,SP,2025-05-06,1649.09,2025-10-09
+CLI-0258,Gabi Melo,gabi.melo258@outlook.com,+55 98922828816,MA,2025-05-09,"R$ 2.545,45",2025-08-14
+CLI-0161,Ana Lima,ana.lima161@gmail.com,(98) 95697-1667,PA,17/08/2023,"R$ 2.327,32",2024-01-11
+CLI-0128,Bruno Costa,bruno.costa128@empresa.com.br,+55 98909688655,MA,24/10/2024,818.98,2025-01-12
+CLI-0686,Bruno Costa,bruno.costa686@gmail.com,(98) 95154-0865,ma,2023-12-21,"R$ 1.311,55",2024-01-25
+CLI-0614,  ELISA ROCHA  ,..elisa.rocha..614@empresa.com.br,98967187926,,2023-01-24,"R$ 1.924,66",2023-04-06
+CLI-0660,Gabi Melo,gabi.melo660@empresa.com.br,(98) 96520-8314,sp,18/05/2023,"R$ 1.466,81",2023-10-03
+CLI-0544,Bruno Costa,bruno.costa544@gmail.com,(98) 97516-8603,SP,2024-10-30,"R$ 2.103,07",2024-12-20
+CLI-0522,Carla Souza,carla.souza522@outlook.com,(98) 96707-7676,,15/01/2024,"R$ 2.191,95",2024-02-21
+CLI-0184,Gabi Melo,gabi.melo184@gmail.com,98959655128,Maranhao,2024-09-15,913.65,2025-01-16
+CLI-0042,Elisa Rocha,elisa.rocha42@empresa.com.br,98947350908,PA,2023-04-06,2238.99,2023-09-29
+CLI-0125,Diego Alves,diego.alves125@empresa.com.br,+55 98930154524,ma,07/04/2023,2296.65,2023-07-17
+CLI-0202,Diego Alves,diego.alves202@gmail.com,(98) 91720-5332,Maranhao,09/12/2023,"R$ 2.176,29",2024-01-06
+CLI-0064,  ANA LIMA  ,..ana.lima..64@gmail.com,+55 98935738971,RJ,30/06/2025,1274.41,2025-10-23
+CLI-0420,Carla Souza,carla.souza420@outlook.com,+55 98959007358,pa,2023-12-01,"R$ 2.149,43",2024-03-14
+CLI-0136,Elisa Rocha,elisa.rocha136@empresa.com.br,98956530214,ma,16/11/2025,"R$ 1.800,22",2025-12-24
+CLI-0103,Gabi Melo,gabi.melo103@empresa.com.br,(98) 91451-5959,RJ,2024-08-22,"R$ 936,05",2025-02-10
+CLI-0018,Diego Alves,diego.alves18@outlook.com,98943361801,ma,14/07/2025,"R$ 1.586,21",2025-12-14
+CLI-0139,Diego Alves,diego.alves139@empresa.com.br,(98) 97699-3524,pa,2024-10-21,"R$ 2.414,75",2024-10-28
+CLI-0356,Bruno Costa,bruno.costa356@empresa.com.br,98932338447,,2024-10-22,2229.14,2024-11-03
+CLI-0412,Bruno Costa,bruno.costa412@empresa.com.br,98953410766,sp,13/08/2025,"R$ 1.262,52",2026-01-22
+CLI-0117,  BRUNO COSTA  ,..bruno.costa..117@gmail.com,,pa,2024-05-24,897.75,2024-10-16
+CLI-0218,Fabio Santos,fabio.santos218@outlook.com,(98) 94623-3837,sp,2023-05-02,584.84,2023-06-26
+CLI-0501,Gabi Melo,gabi.melo501@gmail.com,(98) 99272-5179,sp,09/09/2023,1587.22,2023-11-11
+CLI-0608,Ana Lima,ana.lima608@outlook.com,(98) 94354-6092,sp,2024-10-08,"R$ 2.458,17",2024-10-10
+CLI-0697,Carla Souza,carla.souza697@empresa.com.br,98964790170,SP,03/05/2024,"R$ 2.376,71",2024-10-26
+CLI-0246,Fabio Santos,fabio.santos246@gmail.com,+55 98944681013,pa,2023-07-26,1093.59,2024-01-05
+CLI-0227,  GABI MELO  ,..gabi.melo..227@empresa.com.br,(98) 91892-5519,sp,2023-02-07,710.58,2023-07-14
+CLI-0594,  GABI MELO  ,..gabi.melo..594@outlook.com,(98) 90979-4855,ma,2025-05-18,632.65,2025-09-03
+CLI-0481,Bruno Costa,bruno.costa481@outlook.com,98991755343,sp,2025-09-03,"R$ 2.354,51",2026-02-04
+CLI-0116,Bruno Costa,bruno.costa116@outlook.com,(98) 98487-9972,ma,2023-06-15,"R$ 1.105,58",2023-10-16
+CLI-0312,  CARLA SOUZA  ,..carla.souza..312@empresa.com.br,,MA,2023-04-03,2291.88,2023-08-20
+CLI-0188,Ana Lima,ana.lima188@empresa.com.br,98933885039,SP,21/06/2025,"R$ 2.322,44",2025-12-13
+CLI-0294,Ana Lima,ana.lima294@empresa.com.br,+55 98932105698,,2023-01-07,1643.81,2023-05-29
+CLI-0667,Gabi Melo,gabi.melo667@gmail.com,+55 98999181566,Maranhao,2025-06-04,"R$ 1.281,87",2025-08-05
+CLI-0093,Fabio Santos,fabio.santos93@outlook.com,(98) 91674-2710,ma,2025-04-26,1515.09,2025-07-10
+CLI-0545,  ELISA ROCHA  ,..elisa.rocha..545@empresa.com.br,+55 98912737160,sp,23/04/2025,1251.91,2025-06-16
+CLI-0401,  ELISA ROCHA  ,..elisa.rocha..401@outlook.com,(98) 91803-5267,rj,01/12/2024,1891.16,2025-03-01
+CLI-0375,Bruno Costa,bruno.costa375@empresa.com.br,98942381846,,13/11/2025,"R$ 658,15",2025-11-20
+CLI-0232,Bruno Costa,bruno.costa232@gmail.com,98946213502,sp,15/10/2023,"R$ 2.045,64",2024-03-08
+CLI-0236,Fabio Santos,fabio.santos236@empresa.com.br,+55 98900944578,Maranhao,30/01/2023,95.52,2023-04-09
+CLI-0012,Gabi Melo,gabi.melo12@empresa.com.br,(98) 97192-2143,sp,02/12/2024,"R$ 332,37",2025-05-31
+CLI-0280,Ana Lima,ana.lima280@empresa.com.br,(98) 93645-3338,Maranhao,2025-09-19,1366.09,2025-11-07
+CLI-0293,  GABI MELO  ,..gabi.melo..293@empresa.com.br,+55 98930106303,rj,2023-03-22,"R$ 2.243,68",2023-05-22
+CLI-0486,Ana Lima,ana.lima486@outlook.com,98915152410,PA,06/08/2023,"R$ 2.118,52",2024-01-25
+CLI-0037,Carla Souza,carla.souza37@empresa.com.br,98911633886,MA,09/04/2023,"R$ 1.988,57",2023-05-08
+CLI-0300,  FABIO SANTOS  ,..fabio.santos..300@empresa.com.br,98997243649,pa,18/12/2023,"R$ 190,01",2024-01-31
+CLI-0445,  CARLA SOUZA  ,..carla.souza..445@empresa.com.br,(98) 93566-3772,sp,2025-07-02,859.33,2025-10-14
+CLI-0457,  ELISA ROCHA  ,..elisa.rocha..457empresa.com.br,+55 98950011675,rj,10/10/2025,"R$ 1.127,84",2026-02-18
+CLI-0673,Bruno Costa,bruno.costa673@empresa.com.br,,Maranhao,30/11/2023,1971.26,2024-01-03
+CLI-0528,  GABI MELO  ,..gabi.melo..528@outlook.com,,pa,2025-12-02,"R$ 1.370,19",2025-12-24
+CLI-0494,Elisa Rocha,elisa.rocha494@gmail.com,(98) 93478-5696,RJ,2024-09-18,"R$ 361,59",2024-12-08
+CLI-0025,Fabio Santos,fabio.santos25@outlook.com,98939379981,Maranhao,16/01/2023,"R$ 2.378,38",2023-03-18
+CLI-0464,Carla Souza,carla.souza464@outlook.com,(98) 95062-6839,SP,2024-08-10,571.32,2025-01-15
+CLI-0295,Fabio Santos,fabio.santos295@empresa.com.br,98918417502,ma,2023-05-06,"R$ 1.872,95",2023-06-08
+CLI-0199,Gabi Melo,gabi.melo199@empresa.com.br,+55 98966172963,rj,20/02/2024,"R$ 1.961,59",2024-05-03
+CLI-0163,  ANA LIMA  ,..ana.lima..163@gmail.com,98939226619,SP,14/03/2024,1211.21,2024-08-22
+CLI-0053,Gabi Melo,gabi.melo53@outlook.com,(98) 92957-6293,Maranhao,2025-12-19,2488.82,2026-02-02
+CLI-0648,Elisa Rocha,elisa.rocha648@gmail.com,98979312755,Maranhao,13/05/2023,1900.68,2023-07-26
+CLI-0508,Carla Souza,carla.souza508empresa.com.br,+55 98967568749,,2023-03-05,"R$ 2.261,42",2023-08-04
+CLI-0673,Carla Souza,carla.souza673@outlook.com,98952229887,Maranhao,31/12/2023,617.44,2024-05-22
+CLI-0115,Diego Alves,diego.alves115@gmail.com,98966351197,ma,10/08/2023,"R$ 2.540,81",2024-01-01
+CLI-0688,Gabi Melo,gabi.melo688@gmail.com,+55 98918880162,sp,02/03/2023,2088.26,2023-06-16
+CLI-0276,Fabio Santos,fabio.santos276@gmail.com,(98) 98825-2866,sp,2024-10-08,"R$ 468,32",2025-01-07
+CLI-0288,Carla Souza,carla.souza288@empresa.com.br,+55 98905203309,ma,11/12/2023,"R$ 2.314,98",2024-05-10
+CLI-0150,Diego Alves,diego.alves150@outlook.com,(98) 98472-7414,PA,2023-07-15,"R$ 1.460,28",2023-12-21
+CLI-0273,Carla Souza,carla.souza273@gmail.com,+55 98908545931,RJ,29/09/2024,986.04,2024-12-03
+CLI-0048,Elisa Rocha,elisa.rocha48@outlook.com,+55 98981228150,,17/04/2024,"R$ 428,79",2024-06-15
+CLI-0496,Elisa Rocha,elisa.rocha496@outlook.com,98988319650,SP,2023-07-07,2450.76,2023-08-11
+CLI-0323,Ana Lima,ana.lima323gmail.com,98937935044,sp,2023-10-10,1989.45,2023-12-13
+CLI-0300,Elisa Rocha,elisa.rocha300@gmail.com,+55 98957364710,Maranhao,2025-03-10,520.65,2025-05-27
+CLI-0207,Carla Souza,carla.souza207@outlook.com,+55 98990616212,PA,25/03/2024,479.79,2024-05-29
+CLI-0541,Gabi Melo,gabi.melo541@empresa.com.br,98972085172,ma,01/04/2024,"R$ 2.568,42",2024-05-23
+CLI-0175,Fabio Santos,fabio.santos175@outlook.com,+55 98967198680,rj,2023-06-21,"R$ 191,33",2023-07-09
+CLI-0613,Elisa Rocha,elisa.rocha613@outlook.com,+55 98939337031,rj,23/05/2024,"R$ 1.096,99",2024-08-10
+CLI-0050,Fabio Santos,fabio.santos50@outlook.com,98920735103,SP,11/02/2025,2425.42,2025-03-15
+CLI-0292,Gabi Melo,gabi.melo292outlook.com,+55 98987254692,PA,08/10/2023,205.18,2024-04-05
+CLI-0589,Carla Souza,carla.souza589@empresa.com.br,+55 98954528195,pa,01/08/2023,1409.94,2024-01-08
+CLI-0414,Carla Souza,carla.souza414@outlook.com,+55 98926818252,rj,26/12/2025,1557.68,2026-04-08
+CLI-0627,Elisa Rocha,elisa.rocha627@outlook.com,(98) 95669-6666,Maranhao,06/12/2024,"R$ 1.982,28",2025-05-14
+CLI-0163,Ana Lima,ana.lima163@outlook.com,98928364575,Maranhao,2025-11-05,2256.63,2025-11-07
+CLI-0272,Ana Lima,ana.lima272@empresa.com.br,98917048158,PA,2025-04-23,1712.87,2025-05-27
+CLI-0475,Fabio Santos,fabio.santos475@empresa.com.br,,MA,2023-08-09,2212.77,2023-10-17
+CLI-0470,  BRUNO COSTA  ,..bruno.costa..470@gmail.com,98998307968,,2024-05-27,1669.38,2024-07-24
+CLI-0624,Fabio Santos,fabio.santos624@gmail.com,+55 98980373759,pa,2025-08-17,1054.77,2026-01-07
+CLI-0110,Gabi Melo,gabi.melo110@empresa.com.br,+55 98960252095,PA,28/04/2024,2360.84,2024-09-02
+CLI-0349,Gabi Melo,gabi.melo349empresa.com.br,(98) 90854-6721,RJ,23/09/2023,"R$ 1.369,30",2023-09-27
+CLI-0258,Bruno Costa,bruno.costa258@gmail.com,98977801352,pa,2023-09-10,1838.59,2023-09-12
+CLI-0403,Elisa Rocha,elisa.rocha403@gmail.com,(98) 94801-0945,MA,07/07/2023,2097.20,2023-10-03
+CLI-0133,Diego Alves,diego.alves133@outlook.com,98974484047,Maranhao,19/11/2024,427.76,2025-04-16
+CLI-0324,Fabio Santos,fabio.santos324@empresa.com.br,98943806583,ma,03/06/2024,"R$ 344,25",2024-11-19
+CLI-0010,Elisa Rocha,elisa.rocha10empresa.com.br,98979955457,PA,2024-01-07,2287.17,2024-05-17
+CLI-0566,Bruno Costa,bruno.costa566@outlook.com,98971622415,pa,14/05/2024,1084.64,2024-05-21
+CLI-0513,Elisa Rocha,elisa.rocha513@outlook.com,+55 98962826626,,2023-10-05,"R$ 1.940,66",2023-11-04
+CLI-0696,Bruno Costa,bruno.costa696@gmail.com,+55 98962570362,pa,2025-02-04,"R$ 167,99",2025-05-16
+CLI-0024,Diego Alves,diego.alves24@empresa.com.br,98999320378,MA,2023-08-11,"R$ 1.210,47",2024-01-31
+CLI-0504,Elisa Rocha,elisa.rocha504@outlook.com,(98) 94586-3053,MA,2025-07-31,750.99,2025-11-06
+CLI-0234,Gabi Melo,gabi.melo234gmail.com,(98) 93630-3231,RJ,04/06/2024,261.36,2024-11-19
+CLI-0015,Ana Lima,ana.lima15@empresa.com.br,+55 98972845957,Maranhao,2023-10-14,"R$ 174,79",2023-11-02
+CLI-0433,Bruno Costa,bruno.costa433@outlook.com,+55 98962986866,MA,2023-06-21,"R$ 249,48",2023-11-16
+CLI-0492,Elisa Rocha,elisa.rocha492gmail.com,(98) 99907-3576,Maranhao,30/09/2024,660.46,2024-10-31
+CLI-0340,Gabi Melo,gabi.melo340@empresa.com.br,(98) 90163-8131,,2024-02-24,"R$ 499,27",2024-05-02
+CLI-0205,Diego Alves,diego.alves205@empresa.com.br,+55 98996214651,RJ,07/09/2025,901.92,2026-01-14
+CLI-0030,Bruno Costa,bruno.costa30@outlook.com,(98) 91962-9760,PA,09/09/2025,"R$ 93,90",2025-10-05
+CLI-0420,Bruno Costa,bruno.costa420@outlook.com,+55 98953278913,,24/10/2025,"R$ 1.600,36",2025-10-27
+CLI-0375,Ana Lima,ana.lima375@empresa.com.br,98933411504,SP,2024-09-29,"R$ 2.085,56",2025-03-08
+CLI-0024,Diego Alves,diego.alves24@empresa.com.br,+55 98900286575,rj,20/10/2025,1992.43,2026-03-01
+CLI-0573,  FABIO SANTOS  ,..fabio.santos..573@outlook.com,(98) 91250-6186,RJ,2025-11-24,599.68,2026-04-14
+CLI-0068,  FABIO SANTOS  ,..fabio.santos..68@gmail.com,98949322847,MA,06/10/2023,1106.92,2024-02-18
+CLI-0622,Bruno Costa,bruno.costa622@gmail.com,+55 98921677488,ma,12/04/2023,729.38,2023-05-12
+CLI-0219,Fabio Santos,fabio.santos219empresa.com.br,(98) 91819-3871,rj,08/09/2023,"R$ 1.110,26",2023-09-27
+CLI-0421,Carla Souza,carla.souza421@gmail.com,98965077258,PA,01/05/2025,2176.32,2025-10-28
+CLI-0329,Carla Souza,carla.souza329@empresa.com.br,(98) 94408-6890,sp,21/08/2025,"R$ 2.002,28",2025-08-30
+CLI-0250,Bruno Costa,bruno.costa250@outlook.com,98966271750,,2024-01-02,"R$ 1.758,91",2024-04-30
+CLI-0675,  FABIO SANTOS  ,..fabio.santos..675@gmail.com,98931400361,RJ,18/04/2024,806.41,2024-06-21
+CLI-0188,Fabio Santos,fabio.santos188@outlook.com,+55 98945895681,MA,2025-02-21,83.83,2025-06-08
+CLI-0495,Bruno Costa,bruno.costa495@empresa.com.br,+55 98914585257,sp,17/09/2024,2223.24,2024-11-21
+CLI-0229,Diego Alves,diego.alves229@outlook.com,+55 98914623484,ma,2023-11-20,"R$ 2.088,77",2024-05-15
+CLI-0068,Fabio Santos,fabio.santos68@empresa.com.br,(98) 90124-8749,ma,03/12/2024,720.40,2025-02-09
+CLI-0454,Carla Souza,carla.souza454@gmail.com,+55 98989066124,RJ,10/07/2023,"R$ 617,20",2023-09-21
+CLI-0024,Diego Alves,diego.alves24@outlook.com,+55 98992035103,PA,2023-07-23,"R$ 1.075,61",2023-11-15
+CLI-0059,  FABIO SANTOS  ,..fabio.santos..59gmail.com,(98) 97497-3920,RJ,2023-01-23,1662.79,2023-05-02
+CLI-0508,Elisa Rocha,elisa.rocha508@empresa.com.br,98996311176,MA,06/03/2025,"R$ 1.628,27",2025-06-11
+CLI-0090,Bruno Costa,bruno.costa90@empresa.com.br,(98) 92775-1517,Maranhao,25/05/2025,1490.00,2025-06-01
+CLI-0034,Fabio Santos,fabio.santos34@empresa.com.br,+55 98955955018,,2024-04-01,"R$ 59,68",2024-07-27
+CLI-0616,Diego Alves,diego.alves616@empresa.com.br,(98) 98393-4658,pa,2023-07-27,290.95,2023-11-14
+CLI-0483,Bruno Costa,bruno.costa483@outlook.com,+55 98920188762,SP,03/03/2025,2226.07,2025-04-18
+CLI-0389,Bruno Costa,bruno.costa389@outlook.com,+55 98937645663,SP,23/02/2023,861.79,2023-07-05
+CLI-0010,Elisa Rocha,elisa.rocha10@gmail.com,+55 98914742740,pa,13/03/2023,"R$ 1.103,10",2023-04-08
+CLI-0655,Diego Alves,diego.alves655@outlook.com,(98) 96238-8475,pa,04/02/2024,"R$ 583,51",2024-06-29
+CLI-0576,Gabi Melo,gabi.melo576@outlook.com,+55 98905792051,RJ,2024-03-06,1842.81,2024-06-15
+CLI-0148,Bruno Costa,bruno.costa148@outlook.com,+55 98990730107,Maranhao,2024-11-05,1015.44,2024-11-07
+CLI-0356,Carla Souza,carla.souza356@outlook.com,(98) 96387-3912,rj,17/07/2023,1469.03,2023-12-19
+CLI-0603,Fabio Santos,fabio.santos603@outlook.com,(98) 95635-7555,MA,04/10/2024,"R$ 1.408,02",2025-03-03
+CLI-0275,Gabi Melo,gabi.melo275@outlook.com,(98) 98336-5952,rj,2025-06-21,275.12,2025-12-18
+CLI-0068,Bruno Costa,bruno.costa68@gmail.com,98907134589,PA,22/12/2024,"R$ 771,09",2025-02-19
+CLI-0009,Gabi Melo,gabi.melo9@empresa.com.br,+55 98993906423,Maranhao,2024-06-09,1229.67,2024-07-16
+CLI-0069,Diego Alves,diego.alves69@empresa.com.br,(98) 96086-7947,SP,21/08/2024,781.36,2024-10-12
+CLI-0693,Fabio Santos,fabio.santos693empresa.com.br,(98) 91439-4381,pa,31/07/2023,1155.84,2023-09-26
+CLI-0012,  CARLA SOUZA  ,..carla.souza..12@empresa.com.br,98969821531,pa,2025-08-19,"R$ 2.121,59",2025-10-11
+CLI-0542,Ana Lima,ana.lima542@empresa.com.br,98962394232,pa,2024-12-07,2514.73,2025-01-28
+CLI-0605,  GABI MELO  ,..gabi.melo..605@outlook.com,+55 98983481441,rj,2023-06-12,"R$ 2.001,25",2023-09-11
+CLI-0324,Elisa Rocha,elisa.rocha324@outlook.com,+55 98906797214,MA,2023-05-21,776.49,2023-10-12
+CLI-0118,Gabi Melo,gabi.melo118@gmail.com,+55 98907482936,sp,14/01/2024,"R$ 999,53",2024-03-28
+CLI-0253,  FABIO SANTOS  ,..fabio.santos..253@gmail.com,,ma,12/12/2025,"R$ 417,49",2026-05-16
+CLI-0189,Fabio Santos,fabio.santos189@outlook.com,98923791692,ma,02/12/2023,"R$ 530,72",2024-03-17
+CLI-0009,Elisa Rocha,elisa.rocha9@outlook.com,+55 98922553546,ma,2025-11-20,"R$ 1.004,66",2026-05-10
+CLI-0353,Diego Alves,diego.alves353gmail.com,98925058143,sp,2025-05-08,"R$ 1.104,72",2025-09-30
+CLI-0706,Diego Alves,diego.alves706@outlook.com,(98) 92404-9088,RJ,17/06/2025,"R$ 2.581,27",2025-09-13
+CLI-0406,Fabio Santos,fabio.santos406@gmail.com,98902523377,PA,24/07/2024,1579.43,2024-12-13
+CLI-0113,  BRUNO COSTA  ,..bruno.costa..113@outlook.com,+55 98986824408,pa,24/11/2023,1600.07,2024-01-01
+CLI-0063,Bruno Costa,bruno.costa63@empresa.com.br,,RJ,18/09/2025,"R$ 2.068,92",2025-10-15
+CLI-0031,Bruno Costa,bruno.costa31@empresa.com.br,98960813063,RJ,2023-10-15,"R$ 1.428,87",2023-12-06
+CLI-0086,Ana Lima,ana.lima86@gmail.com,+55 98985234240,MA,23/08/2024,2447.02,2024-11-25
+CLI-0391,Ana Lima,ana.lima391gmail.com,(98) 94740-7187,sp,13/10/2024,853.37,2024-10-14
+CLI-0055,Gabi Melo,gabi.melo55@gmail.com,(98) 93665-4810,SP,2024-11-10,"R$ 1.630,29",2025-03-27
+CLI-0095,Elisa Rocha,elisa.rocha95@outlook.com,98973038388,PA,2023-12-19,2354.10,2024-01-25
+CLI-0555,  ELISA ROCHA  ,..elisa.rocha..555@gmail.com,(98) 99721-4392,sp,2023-09-30,"R$ 1.858,83",2024-02-19
+CLI-0309,Fabio Santos,fabio.santos309@gmail.com,+55 98954175771,Maranhao,13/09/2025,1664.47,2025-11-26
+CLI-0268,Fabio Santos,fabio.santos268@outlook.com,+55 98979375167,rj,05/06/2025,"R$ 1.186,96",2025-07-26
+CLI-0485,Carla Souza,carla.souza485@outlook.com,(98) 96896-7821,,18/10/2023,"R$ 2.356,39",2024-02-25
+CLI-0631,Carla Souza,carla.souza631@outlook.com,98917903949,SP,05/10/2025,1228.11,2025-10-22
+CLI-0288,  BRUNO COSTA  ,..bruno.costa..288@outlook.com,98908601955,RJ,2024-07-08,1054.72,2024-12-07
+CLI-0488,Diego Alves,diego.alves488@outlook.com,98913243107,RJ,30/01/2025,"R$ 197,23",2025-02-08
+CLI-0129,Fabio Santos,fabio.santos129@gmail.com,+55 98978213954,sp,14/07/2023,1259.11,2023-10-25
+CLI-0599,Diego Alves,diego.alves599@gmail.com,+55 98953639113,pa,2024-04-29,2237.76,2024-10-03
+CLI-0589,Fabio Santos,fabio.santos589@outlook.com,+55 98923036115,Maranhao,08/08/2024,1154.27,2024-11-13
+CLI-0630,  FABIO SANTOS  ,..fabio.santos..630@empresa.com.br,(98) 99524-6190,Maranhao,22/12/2025,406.31,2026-02-06
+CLI-0224,Elisa Rocha,elisa.rocha224@empresa.com.br,(98) 91201-3070,,28/05/2023,130.26,2023-06-23
+CLI-0238,Diego Alves,diego.alves238@gmail.com,+55 98956152081,Maranhao,20/08/2023,"R$ 1.491,22",2023-10-21
+CLI-0209,  CARLA SOUZA  ,..carla.souza..209@empresa.com.br,+55 98920592244,pa,2025-04-16,"R$ 386,38",2025-06-25
+CLI-0253,Elisa Rocha,elisa.rocha253@outlook.com,+55 98907408077,sp,10/09/2023,914.68,2023-10-07
+CLI-0451,  CARLA SOUZA  ,..carla.souza..451@outlook.com,98997532656,Maranhao,13/04/2025,"R$ 1.730,03",2025-08-29
+CLI-0204,Elisa Rocha,elisa.rocha204gmail.com,98941733393,RJ,04/06/2025,790.73,2025-11-02
+CLI-0210,Gabi Melo,gabi.melo210@outlook.com,98962899062,,23/02/2025,"R$ 2.413,52",2025-08-21
+CLI-0592,Diego Alves,diego.alves592@empresa.com.br,+55 98945845943,MA,2024-10-21,1460.33,2024-12-23
+CLI-0329,  FABIO SANTOS  ,..fabio.santos..329@outlook.com,+55 98965610007,,2024-02-26,"R$ 2.513,53",2024-05-26
+CLI-0126,Gabi Melo,gabi.melo126@empresa.com.br,(98) 90156-1148,rj,2024-12-28,1996.81,2025-04-02
+CLI-0554,Fabio Santos,fabio.santos554@gmail.com,+55 98960324509,PA,19/03/2023,1604.08,2023-03-19
+CLI-0205,Fabio Santos,fabio.santos205@outlook.com,98968456006,pa,2023-04-28,747.00,2023-07-18
+CLI-0457,Gabi Melo,gabi.melo457@outlook.com,98927148287,sp,17/03/2025,148.44,2025-09-10
+CLI-0626,Diego Alves,diego.alves626@outlook.com,98985460144,ma,2024-12-07,"R$ 2.029,28",2025-03-10
+CLI-0150,Bruno Costa,bruno.costa150@outlook.com,(98) 97163-5471,pa,18/07/2023,"R$ 100,92",2023-08-14
+CLI-0052,Gabi Melo,gabi.melo52outlook.com,+55 98930558290,Maranhao,03/07/2024,1666.49,2024-08-13
+CLI-0021,Fabio Santos,fabio.santos21outlook.com,(98) 94107-8323,MA,10/08/2025,1848.07,2025-12-22
+CLI-0203,  ELISA ROCHA  ,..elisa.rocha..203@empresa.com.br,98923132733,,2025-11-16,87.12,2026-04-09
+CLI-0433,Elisa Rocha,elisa.rocha433@empresa.com.br,98902479881,rj,2024-07-20,"R$ 1.405,74",2024-09-13
+CLI-0648,Carla Souza,carla.souza648@outlook.com,98988036225,pa,11/05/2024,370.26,2024-08-02
+CLI-0071,  BRUNO COSTA  ,..bruno.costa..71@empresa.com.br,98924912245,rj,2023-11-26,"R$ 213,25",2023-12-15
+CLI-0277,Carla Souza,carla.souza277@outlook.com,+55 98976467096,PA,2023-11-07,1054.91,2023-11-21
+CLI-0385,Gabi Melo,gabi.melo385@outlook.com,(98) 99304-8561,ma,27/01/2024,"R$ 2.022,44",2024-07-24
+CLI-0193,Fabio Santos,fabio.santos193@empresa.com.br,98957109021,SP,11/10/2025,2193.63,2026-02-25
+CLI-0310,Fabio Santos,fabio.santos310@gmail.com,(98) 90517-6736,,2023-05-01,"R$ 2.471,31",2023-07-17
+CLI-0167,Carla Souza,carla.souza167@gmail.com,,rj,2025-01-09,"R$ 584,06",2025-04-21
+CLI-0155,Carla Souza,carla.souza155@empresa.com.br,+55 98922677032,,2025-02-12,1556.28,2025-03-27
+CLI-0261,Elisa Rocha,elisa.rocha261@empresa.com.br,(98) 96550-1995,MA,02/03/2024,1331.97,2024-03-13
+CLI-0383,Fabio Santos,fabio.santos383@empresa.com.br,(98) 98394-0932,Maranhao,02/02/2023,"R$ 115,89",2023-05-13
+CLI-0244,Carla Souza,carla.souza244outlook.com,(98) 96965-3184,rj,20/08/2023,498.76,2023-11-24
+CLI-0044,Carla Souza,carla.souza44@outlook.com,(98) 96511-5179,SP,26/10/2023,373.17,2024-03-24
+CLI-0313,Gabi Melo,gabi.melo313@outlook.com,(98) 92901-8058,ma,22/08/2024,1960.29,2024-09-06
+CLI-0427,Fabio Santos,fabio.santos427@empresa.com.br,,RJ,09/07/2023,1626.05,2023-10-13
+CLI-0305,Gabi Melo,gabi.melo305@gmail.com,98956548334,Maranhao,2024-05-20,1822.45,2024-05-29
+CLI-0069,Diego Alves,diego.alves69@outlook.com,98922503066,,2025-01-26,1368.53,2025-06-09
+CLI-0082,Bruno Costa,bruno.costa82@empresa.com.br,(98) 90370-4500,Maranhao,25/09/2025,1514.14,2025-09-28
+CLI-0095,  GABI MELO  ,..gabi.melo..95@gmail.com,98902876488,SP,02/05/2025,"R$ 2.266,68",2025-08-01
+CLI-0712,  CARLA SOUZA  ,..carla.souza..712@gmail.com,(98) 96537-1293,rj,13/05/2024,"R$ 2.388,73",2024-07-05
+CLI-0568,Bruno Costa,bruno.costa568@gmail.com,(98) 94234-4726,PA,2024-01-03,54.10,2024-03-27
+CLI-0110,Elisa Rocha,elisa.rocha110@outlook.com,98951420911,MA,2023-12-04,"R$ 2.032,77",2024-05-17
+CLI-0156,Diego Alves,diego.alves156@empresa.com.br,(98) 90144-8284,SP,19/12/2025,"R$ 1.306,31",2026-02-27
+CLI-0698,Diego Alves,diego.alves698@outlook.com,98933641631,SP,2024-09-09,"R$ 335,93",2024-11-11
+CLI-0662,Carla Souza,carla.souza662@outlook.com,+55 98981206383,rj,2023-07-28,"R$ 639,81",2023-12-27
+CLI-0200,Ana Lima,ana.lima200@gmail.com,98985549485,MA,2025-03-29,"R$ 575,94",2025-04-22
+CLI-0041,Diego Alves,diego.alves41gmail.com,(98) 94132-3248,ma,29/08/2024,253.32,2024-11-28
+CLI-0288,Diego Alves,diego.alves288@empresa.com.br,+55 98906291136,,05/08/2025,2574.01,2026-01-20
+CLI-0274,Elisa Rocha,elisa.rocha274@empresa.com.br,(98) 91154-7642,rj,03/08/2024,1569.99,2024-10-25
+CLI-0410,  BRUNO COSTA  ,..bruno.costa..410@gmail.com,+55 98991162003,pa,08/07/2023,1334.23,2023-09-29
+CLI-0374,Elisa Rocha,elisa.rocha374@outlook.com,,SP,2025-09-24,2029.56,2025-12-08
+CLI-0279,Bruno Costa,bruno.costa279@outlook.com,,RJ,2023-02-16,1296.00,2023-04-30
+CLI-0552,Diego Alves,diego.alves552@outlook.com,(98) 91769-7736,Maranhao,2025-05-03,"R$ 1.253,98",2025-07-21
+CLI-0658,Ana Lima,ana.lima658@empresa.com.br,(98) 90744-8248,ma,17/05/2025,1777.32,2025-09-03
+CLI-0079,  ANA LIMA  ,..ana.lima..79@empresa.com.br,+55 98905797262,sp,28/06/2025,2447.50,2025-07-18
+CLI-0009,Carla Souza,carla.souza9@outlook.com,98908288318,ma,2023-11-06,1333.21,2023-11-24
+CLI-0240,Ana Lima,ana.lima240@empresa.com.br,98966872887,Maranhao,2024-01-19,2242.13,2024-03-21
+CLI-0365,Fabio Santos,fabio.santos365@outlook.com,98942876528,SP,2024-01-03,"R$ 511,42",2024-01-26
+CLI-0654,Ana Lima,ana.lima654@gmail.com,98901236447,pa,2025-06-21,"R$ 1.684,43",2025-11-26
+CLI-0096,Gabi Melo,gabi.melo96@gmail.com,98998652509,SP,2024-04-01,751.35,2024-07-14
+CLI-0252,Gabi Melo,gabi.melo252@gmail.com,(98) 95684-7236,rj,2025-05-01,1795.41,2025-06-08
+CLI-0694,Carla Souza,carla.souza694@gmail.com,(98) 97818-1555,sp,2025-02-12,"R$ 846,45",2025-03-19
+CLI-0675,Fabio Santos,fabio.santos675@empresa.com.br,+55 98934854104,pa,19/08/2023,708.13,2023-11-30
+CLI-0660,Fabio Santos,fabio.santos660@gmail.com,,sp,14/05/2025,1482.23,2025-07-25
+CLI-0687,Ana Lima,ana.lima687@empresa.com.br,(98) 96767-8864,sp,2025-11-05,"R$ 1.924,52",2025-11-25
+CLI-0239,  DIEGO ALVES  ,..diego.alves..239@gmail.com,(98) 93169-6292,sp,26/06/2024,1550.79,2024-07-28
