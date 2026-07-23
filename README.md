@@ -1,36 +1,35 @@
-# Pipeline ETL de Qualidade de Dados
+# Pipeline ETL para qualidade de dados
 
-Projeto de engenharia de dados que identifica e corrige problemas comuns em cadastros de clientes: duplicidades, textos inconsistentes, e-mails invalidos, telefones fora do padrao, datas em formatos diferentes e valores monetarios brasileiros.
+Este projeto nasceu como um exercício de limpeza de cadastros. Montei uma base fictícia com problemas que aparecem com frequência em arquivos reais: clientes repetidos, nomes escritos de formas diferentes, telefones incompletos, e-mails inválidos, datas misturadas e valores no formato brasileiro.
 
-![Comparacao da qualidade](outputs/qualidade_antes_depois.svg)
+O objetivo foi criar um processo que pudesse ser executado novamente, sempre com as mesmas regras.
 
-## Fluxo
+![Comparação da qualidade](outputs/qualidade_antes_depois.svg)
+
+## Fluxo do projeto
 
 ```text
-CSV bruto -> perfil de qualidade -> padronizacao -> validacao -> deduplicacao -> CSV tratado + relatorio
+CSV bruto -> diagnóstico -> padronização -> validação -> deduplicação -> CSV tratado + relatório
 ```
 
-## Tecnologias
+## O que o pipeline faz
 
-`Python` · `Pandas` · `Regex` · `ETL` · `SQL` · `Matplotlib` · `Pytest`
+- padroniza nomes, telefones, estados, datas e valores monetários;
+- valida e-mails com uma regra simples;
+- identifica IDs duplicados;
+- mantém a versão mais recente de cada cadastro;
+- cria uma coluna que indica se o registro está completo;
+- salva um relatório comparando a qualidade antes e depois.
 
-## Resultado da execucao
+## Resultado do teste
 
-- 900 linhas brutas analisadas;
-- 669 ocorrencias em IDs duplicados identificadas;
-- 400 versoes antigas removidas pela regra de deduplicacao;
-- IDs duplicados reduzidos a zero;
-- registros invalidos preservados como nulos e sinalizados para revisao.
+A base gerada possui 900 linhas. Nela, o pipeline encontrou 669 ocorrências relacionadas a IDs duplicados e removeu 400 versões antigas. Depois do tratamento, não restaram IDs duplicados.
 
-## Entregaveis
+Os campos inválidos não são preenchidos com valores inventados. Eles ficam nulos e o cadastro é sinalizado para revisão. Escolhi essa abordagem para não esconder problemas da fonte.
 
-- base suja, ficticia e reproduzivel;
-- pipeline modular em `src/pipeline.py`;
-- base limpa em `data/processed/clientes_tratados.csv`;
-- relatorio antes/depois em JSON;
-- grafico de qualidade para comunicacao do resultado;
-- consultas SQL para auditoria;
-- testes automatizados das regras principais.
+## Tecnologias que pratiquei
+
+Python, Pandas, expressões regulares, ETL, SQL, Matplotlib e Pytest.
 
 ## Como executar
 
@@ -43,6 +42,15 @@ python src/pipeline.py
 pytest -q
 ```
 
-As regras de tratamento estao documentadas em [`docs/regras_de_qualidade.md`](docs/regras_de_qualidade.md).
+As regras estão detalhadas em [`docs/regras_de_qualidade.md`](docs/regras_de_qualidade.md).
 
-> Os dados sao inteiramente ficticios. Valores invalidos nao sao inventados: eles sao sinalizados para revisao, preservando a rastreabilidade do processo.
+## Limitações que identifiquei
+
+- a validação de e-mail é propositalmente simples;
+- o telefone considera o padrão brasileiro de 11 dígitos;
+- o mapa de estados cobre apenas os valores presentes na base de estudo;
+- registros nulos ainda precisam de uma etapa de revisão humana.
+
+## Próximo passo
+
+Quero separar os registros rejeitados em um arquivo próprio, com o motivo de cada rejeição, e criar mais testes para entradas fora do padrão.
